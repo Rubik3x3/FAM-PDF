@@ -1,6 +1,6 @@
 import PyPDF2
 
-textoDef = ""
+textoDef = str("")
 
 
 def generarTXT(texto, nombre):
