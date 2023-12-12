@@ -14,7 +14,7 @@ def generarTXT(texto, nombre):
     archivo.write(texto)
     archivo.close
 
-    print(f'Archivo {nombre} generado.')
+    #print(f'Archivo {nombre} generado.')
 
 
 def generarTextoMAYUS(texto, nombre):
@@ -65,7 +65,7 @@ def duplicarDocumento(viejo, nuevo):
         with open(nuevo, 'w') as archivo_duplicado:
             archivo_duplicado.write(contenido_original)
 
-        print("Archivo duplicado correctamente.")
+        #print("Archivo duplicado correctamente.")
 
     except FileNotFoundError:
         print("El archivo original no fue encontrado.")

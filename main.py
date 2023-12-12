@@ -2,19 +2,25 @@ import os
 import PyPDF2
 import re
 import json
+import glob
 
 import textoFAM
 import datosFAM
 import extrasFAM
 
+carpeta_pdfs = "PDFs/2023"
+archivos_pdf = glob.glob(os.path.join(carpeta_pdfs, "*.pdf"))
 
-pdf = "PDFs/torneog.pdf"
+categorias = ["U12-M","U12-F","U14-M","U14-F","U16-M","U16-F","U18-M","U18-F","U20-M","U20-F","U23-M","U23-F","MAYORES-M","MAYORES-F",]
+
+json_torneo = {}
 
 def main():
-    generarTextos()
-    obtenerDatos()
+    for archivo_pdf in archivos_pdf:
+        generarTextos(archivo_pdf)
+        obtenerDatos()
 
-def generarTextos():
+def generarTextos(pdf):
     texto_definitivo = str("")
     texto_definitivo = textoFAM.convertirATexto(pdf)
     texto_definitivo = textoFAM.eliminarEspacios(texto_definitivo)
@@ -25,10 +31,10 @@ def generarTextos():
 def obtenerDatos():
     with open("TEXTOS/FINAL.txt", 'r') as archivo:
         contenido = archivo.read()
-        
     variables_torneo = datosFAM.variablesTorneo(contenido)
-    print(variables_torneo)
-    extrasFAM.textoFinalizoTarea("OBTENER DATOS","-",30)
+    datosFAM.guardarJsonVariables(variables_torneo)
+    extrasFAM.textoFinalizoTarea("OBTENER VARIABLES","-",30)
 
 if __name__ == "__main__":
     main()
+    print(json_torneo)
