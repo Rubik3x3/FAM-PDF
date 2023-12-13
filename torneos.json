@@ -1,6 +1,7 @@
 {
     "torneos": {
         "CAMPEONATO METROPOLITANO U18": {
+            "nombre": "CAMPEONATO METROPOLITANO U18",
             "fecha-inicio": "01/07/2023",
             "fecha-fin": "02/07/2023",
             "siglas-lugar": "FAMPOJULIO",
@@ -8,15 +9,17 @@
             "organiza": "FAM",
             "fiscaliza": "FAM"
         },
-        "VALLE / /2004 MAB - FAM ARG 5.52 1.2 - 10 MATIAS GOMIZ - /- /1995 LTFAM - FAM ARG 5.35 3.2 - 11 MAURO RIOS / /2006 MAB - FAM ARG 0.00 DNS 11 JUAN CRUZ FERNANDEZ / /2005 SGLZ - FAM ARG 0.00 DNS _____________________________________________________________________________________________________ __ GARROCHA : MAYORES -M FINAL_A": {
-            "fecha-inicio": "4/3/2023HORA:12.45|||01FELIXORUEZABALA",
-            "fecha-fin": "/",
-            "siglas-lugar": "",
-            "pais": "",
-            "organiza": "",
+        "TORNEO RUBEN CODERCH": {
+            "nombre": "TORNEO RUBEN CODERCH",
+            "fecha-inicio": "04/03/2023",
+            "fecha-fin": "04/03/2023",
+            "siglas-lugar": "FAMCEN0403",
+            "pais": "ARG",
+            "organiza": "FAM",
             "fiscaliza": "FAM"
         },
         "JUAR REGION CONURBANO NORTE 2023": {
+            "nombre": "JUAR REGION CONURBANO NORTE 2023",
             "fecha-inicio": "28/06/2023",
             "fecha-fin": "28/06/2023",
             "siglas-lugar": "PO28062023",
@@ -25,6 +28,7 @@
             "fiscaliza": "FAM"
         },
         "TORNEO RICARDO BONFIGLIOLI": {
+            "nombre": "TORNEO RICARDO BONFIGLIOLI",
             "fecha-inicio": "25/11/2023",
             "fecha-fin": "25/11/2023",
             "siglas-lugar": "FAMPO2511",
@@ -32,15 +36,17 @@
             "organiza": "FAM",
             "fiscaliza": "FAM"
         },
-        "CARMEN 3 /5 /1973 L\u00c3\u2018 - FAM ARG 2.46.58 - 16 DELFINA CERRANO / /2009 ET - FAM ARG 2.49.25 - 17 TEOFILA BEATRIZ SOSA / /1977 L\u00c3\u2018 - FAM ARG 2.52.55 - 18 ANA POLACK MART\u00c3 NEZ / /2008 CNBA - FAM ARG 3.06.12 - 19 MARIA ORTEGA / /1975 FCMAX - FAM ARG 3.08.55 - 20 MAGALI ROCIO MARTINEZ / /2006 MAB - FAM ARG 3.11.89 - 21 PATRICIA G FALC\u00c3\u201cN / /1961 AAPCH - FAM ARG 9.99.99 DNS _____________________________________________________________________________________________ __________ 3000 ELECTRONICO : MAYORES -F FINAL_A": {
-            "fecha-inicio": "23/9/2023HORA:15.30|||01ANNASCAPPINI//1989FCMAX",
-            "fecha-fin": "FAMARG10.01.54",
-            "siglas-lugar": "",
-            "pais": "",
-            "organiza": "",
+        "TORNEO PRIMAVERA PORTE\u00d1A": {
+            "nombre": "TORNEO PRIMAVERA PORTE\u00d1A",
+            "fecha-inicio": "23/09/2023",
+            "fecha-fin": "23/09/2023",
+            "siglas-lugar": "FAMCEN230923",
+            "pais": "ARG",
+            "organiza": "ARG",
             "fiscaliza": "ARG"
         },
         "CAMPEONATO METROPOLITANO U20": {
+            "nombre": "CAMPEONATO METROPOLITANO U20",
             "fecha-inicio": "18/03/2023",
             "fecha-fin": "19/03/2023",
             "siglas-lugar": "FAMCENARDMAR",
@@ -49,6 +55,7 @@
             "fiscaliza": "FAM"
         },
         "TORNEO OTO\u00d1O PORTE\u00d1O": {
+            "nombre": "TORNEO OTO\u00d1O PORTE\u00d1O",
             "fecha-inicio": "29/04/2023",
             "fecha-fin": "29/04/2023",
             "siglas-lugar": "FAMCEN2904",
@@ -57,6 +64,7 @@
             "fiscaliza": "FAM"
         },
         "TORNEO MALVINAS ARGENTINAS": {
+            "nombre": "TORNEO MALVINAS ARGENTINAS",
             "fecha-inicio": "01/04/2023",
             "fecha-fin": "01/04/2023",
             "siglas-lugar": "FAMCEN14",
@@ -65,6 +73,7 @@
             "fiscaliza": "FAM"
         },
         "TORNEO JULIO ANTISTA": {
+            "nombre": "TORNEO JULIO ANTISTA",
             "fecha-inicio": "03/06/2023",
             "fecha-fin": "03/06/2023",
             "siglas-lugar": "FAMPO36",
@@ -73,6 +82,7 @@
             "fiscaliza": "FAM"
         },
         "CAMPEONATO METROPOLITANO U1 4": {
+            "nombre": "CAMPEONATO METROPOLITANO U1 4",
             "fecha-inicio": "11/11/2023",
             "fecha-fin": "11/11/2023",
             "siglas-lugar": "FAMPOU1423",
@@ -81,6 +91,7 @@
             "fiscaliza": "FAM"
         },
         "CAMPEONATO METROPOLITANO DE MAYORES": {
+            "nombre": "CAMPEONATO METROPOLITANO DE MAYORES",
             "fecha-inicio": "22/04/2023",
             "fecha-fin": "23/04/2023",
             "siglas-lugar": "FAMCEN2223",
@@ -88,23 +99,26 @@
             "organiza": "FAM",
             "fiscaliza": "FAM"
         },
-        "VIGO / /2009 CNBA - FAM ARG 17.93 - 09 SOFIA CANDELA MOREIRA / /2008 - - FABPA ARG 99.99 DNS 09 SOFIA RAMIR EZ / /2008 - - FABPA ARG 99.99 DNS ||| LARGO : U16 -F FINAL_A": {
-            "fecha-inicio": "2/9/2023HORA:09.15|||01PAULASOF\u00c3\u008dAROMANO//2008CNBA",
-            "fecha-fin": "FAMARG4.62",
-            "siglas-lugar": "",
-            "pais": "",
-            "organiza": "",
+        "JUEGOS UFEDEM 2023": {
+            "nombre": "JUEGOS UFEDEM 2023",
+            "fecha-inicio": "02/09/2023",
+            "fecha-fin": "02/09/2023",
+            "siglas-lugar": "FAMCEN120823",
+            "pais": "ARG",
+            "organiza": "FAM",
             "fiscaliza": "FAM"
         },
-        "VALLE / /2004 MAB - ATLETA ARG 99.99 DNS 60 FRANCISCO GIL / /2007 MSI - ATLETA ARG 99. 99 DNS 60 MARTIN NATANAEL HEREDIA - /- /2005 MM - ATLETA ARG 99.99 2.5 60 MATHIAS OVEJERO 5 /2 /1998 GARIN - ATLETA ARG 99.99 DNS 60 PERE YRA TOBIAS 14/11/2002 GARIN - ATLETA ARG 99.99 DNS 60 RENZO WHITAKER / /2006 MSI - ATLETA ARG 99.99 DQ 60 SANTINELLI ILDARRAZ FRANCISCO 23/6 /1998 - - ATLETA ARG 99.99 DNS 60 TEIRA, I\u00d1AQUI 10/7 /2002 CARP - ATLETA ARG 99.99 DNS ___________________________________________________________________________ ____________________________ 1500 ELECTRONICO : MAYORES -M FINAL_A": {
-            "fecha-inicio": "6/5/2023HORA:16.30|||01ALONSOFAUSTO28/9/1996FCMAX",
-            "fecha-fin": "ATLETAARG4.03.25",
-            "siglas-lugar": "",
-            "pais": "",
-            "organiza": "",
+        "TORNEO GERARDO BONNHOFF": {
+            "nombre": "TORNEO GERARDO BONNHOFF",
+            "fecha-inicio": "06/05/2023",
+            "fecha-fin": "06/05/2023",
+            "siglas-lugar": "FAMCENAR0605",
+            "pais": "ARG",
+            "organiza": "FAM",
             "fiscaliza": "FAM"
         },
-        "MAESTRO": {
+        "TORNEO DIA DEL MAESTRO": {
+            "nombre": "TORNEO DIA DEL MAESTRO",
             "fecha-inicio": "16/09/2023",
             "fecha-fin": "16/09/2023",
             "siglas-lugar": "FAMCEN160923",
@@ -113,6 +127,7 @@
             "fiscaliza": "FAM"
         },
         "TORNEO JUAR REGION CABA": {
+            "nombre": "TORNEO JUAR REGION CABA",
             "fecha-inicio": "17/06/2023",
             "fecha-fin": "17/06/2023",
             "siglas-lugar": "POCABA2023",
@@ -121,6 +136,7 @@
             "fiscaliza": "FAM"
         },
         "TORNEO GERARDO BONHOFF": {
+            "nombre": "TORNEO GERARDO BONHOFF",
             "fecha-inicio": "28/10/2023",
             "fecha-fin": "28/10/2023",
             "siglas-lugar": "PO28102023",
@@ -128,15 +144,17 @@
             "organiza": "FAM",
             "fiscaliza": "FAM"
         },
-        "VIGO / /2009 CNBA - - ARG 99.99 DNS ||| ALTO FINAL_A": {
-            "fecha-inicio": "19/8/2023HORA:14.00|||01MALENAYAGIHIGA//2009CHAMA",
-            "fecha-fin": "",
-            "siglas-lugar": "",
-            "pais": "",
-            "organiza": "",
+        "JUEGOS PORTE\u00d1OS": {
+            "nombre": "JUEGOS PORTE\u00d1OS",
+            "fecha-inicio": "19/08/2023",
+            "fecha-fin": "19/08/2023",
+            "siglas-lugar": "CABAPO2023",
+            "pais": "ARG",
+            "organiza": "CABA",
             "fiscaliza": "FAM"
         },
         "CAMPEONATO METROPOLITANO U23": {
+            "nombre": "CAMPEONATO METROPOLITANO U23",
             "fecha-inicio": "26/08/2023",
             "fecha-fin": "27/08/2023",
             "siglas-lugar": "FAMPO0823",
@@ -145,6 +163,7 @@
             "fiscaliza": "FAM"
         },
         "TORNEO JUAN CARLOS \u201cPOLDO\u201d KERWITZ (ACTUALIZADO AL 17/04)": {
+            "nombre": "TORNEO JUAN CARLOS \u201cPOLDO\u201d KERWITZ (ACTUALIZADO AL 17/04)",
             "fecha-inicio": "15/04/2023",
             "fecha-fin": "15/04/2023",
             "siglas-lugar": "FAMCEN1504",
@@ -153,6 +172,7 @@
             "fiscaliza": "FAM"
         },
         "TORNEO INVIERNO PORTE\u00d1O": {
+            "nombre": "TORNEO INVIERNO PORTE\u00d1O",
             "fecha-inicio": "05/08/2023",
             "fecha-fin": "05/08/2023",
             "siglas-lugar": "POFAM0508",
@@ -160,15 +180,17 @@
             "organiza": "FAM",
             "fiscaliza": "FAM"
         },
-        "VALLE / /2004 MAB - FAM ARG 12.15 1.6 - 06 AVILA IGNACIO / /1997 LTFAM - FAM ARG 11.77 1.7 - 07 BIAGIOLA RODOLFO 22/9 /1965 AAPCH - FAM ARG 09.81 1.1 - 99 MAURO RIOS / /2006 MAB - FAM ARG 00.00 DNF ||| DISCO 2.000 KGS : MAYORES -M FINAL_A": {
-            "fecha-inicio": "11/3/2023HORA:15.55|||01JULIANFEDERICOTAMASHIRO//2001SGLZ",
-            "fecha-fin": "FAMARG31.09",
-            "siglas-lugar": "",
-            "pais": "",
-            "organiza": "",
+        "TORNEO D\u00cdA DE LA MUJER": {
+            "nombre": "TORNEO D\u00cdA DE LA MUJER",
+            "fecha-inicio": "11/03/2023",
+            "fecha-fin": "11/03/2023",
+            "siglas-lugar": "FAMCEN1103",
+            "pais": "ARG",
+            "organiza": "FAM",
             "fiscaliza": "FAM"
         },
         "CAMPEONATO METROPOLITANO U16": {
+            "nombre": "CAMPEONATO METROPOLITANO U16",
             "fecha-inicio": "07/10/2023",
             "fecha-fin": "08/10/2023",
             "siglas-lugar": "FAMCENU16",
@@ -176,12 +198,13 @@
             "organiza": "FAM",
             "fiscaliza": "FAM"
         },
-        "RE NORBERTO 3 /5 /1970 CADAF - FAM ARG 26.44 -0.2 47 FRANCISCO LOZA / /2008 FCMAX - FAM ARG 26.53 -1.0 48 PEDRO LEPRE - /- /2009 ET - FAM ARG 26.58 -1.3 49 JEREMIAS BORGOBELLO / /2006 CADAF - FAM ARG 26.96 -0.8 50 EMANUEL ANAYA / /2009 MLAM - FAM ARG 27.06 -1.3 51 MARTINO DARIAN SPRAGGON / /2005 MME - FAM ARG 27.49 -0.8 52 LEON SANTOS / /2010 CHAMA - FAM ARG 27.77 -1.0 53 DIEGO CANALES / /2004 AAMT - FAM ARG 27.89 -1.0 54 FELIPE ANGEL SERFATI / /2010 AAPCH - FAM ARG 28.16 -1.3 55 ATAHUALPA RODRIGUEZ / /1979 AAPCH - FAM ARG 29.04 -0.2 56 VICENTE GIANELLO / /2009 FCMAX - FAM ARG 29.21 - 57 EDUARDO CESAR RODRIGUEZ GARIN - /- /1960 CADAF - FAM ARG 30.14 -0.2 58 CAMPOSTRINI NAZARENO / /2007 MLAM - FAM ARG 99.99 DNS 58 EMILIANO NAHUEL RUBEN DIAZ / /2004 MAB - FAM ARG 99.99 DNS 58 GABRIEL ZANUY SCHEGGIA - /- /2005 LTFAM - FAM ARG 99.99 DNS 58 GONZALO BAUTISTA FUKUHARA / /2010 MLZ - FAM ARG 99.99 -1.0 58 MANUEL ZAPPACOSTA / /2006 MSI - FAM ARG 99.99 DNS 58 MARTIN JOSE PAEZ / /2004 - - - ARG 99.99 DNS 58 MARTINEZ LEONARDO 9 /10/198 2 LIBRE - ---- ARG 99.99 DNS 58 NICOLAS MARIANO TALARICO / /2010 AAPCH - FAM ARG 99.99 -1.0 58 THIAGO GOMEZ / /2008 AAA - FAM AR G 99.99 DNS ||| 800 ELECTRONICO : MAYORES -M FINAL_A": {
-            "fecha-inicio": "12/8/2023HORA:11.05_______________________________________________________________________________________________________01MARCELOLABONIA",
-            "fecha-fin": "/",
-            "siglas-lugar": "",
-            "pais": "",
-            "organiza": "",
+        "TORNEO JOSE DE SAN MART\u00cdN": {
+            "nombre": "TORNEO JOSE DE SAN MART\u00cdN",
+            "fecha-inicio": "12/08/2023",
+            "fecha-fin": "12/08/2023",
+            "siglas-lugar": "FAMCEN120823",
+            "pais": "ARG",
+            "organiza": "FAM",
             "fiscaliza": "FAM"
         }
     }

@@ -11,6 +11,8 @@ import extrasFAM
 carpeta_pdfs = "PDFs/2023"
 archivos_pdf = glob.glob(os.path.join(carpeta_pdfs, "*.pdf"))
 
+pdf = "PDFs/2023/Resultados 16-09.pdf"
+
 categorias = ["U12-M","U12-F","U14-M","U14-F","U16-M","U16-F","U18-M","U18-F","U20-M","U20-F","U23-M","U23-F","MAYORES-M","MAYORES-F",]
 
 json_torneo = {}

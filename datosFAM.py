@@ -12,6 +12,7 @@ def guardarJsonVariables(variables_torneo):
     fiscaliza_torneo = variables_torneo[5]
 
     datos_torneo = {
+        "nombre": nombre_torneo,
         "fecha-inicio": fecha_torneo[0],
         "fecha-fin": fecha_torneo[1],
         "siglas-lugar": siglaslugar_torneo,
@@ -54,11 +55,14 @@ def variablesTorneo(texto):
     variables = []
     
     palabras = texto.split()
-
     # Buscar las palabras clave "RESULTADOS" o "RESULTADOS DEL"
-    if "RESULTADOS" in palabras and "DEL" in palabras :
-        indice_inicio = palabras.index("DEL") + 1
-    elif "RESULTADOS" in " ".join(palabras):
+    if "RESULTADOS" == palabras[0] and "DEL" == palabras[1]:
+        indice_inicio = palabras.index("RESULTADOS") + 2
+    elif "RESULTADOS" == palabras[0] and "AL" == palabras[1]:
+        indice_inicio = palabras.index("RESULTADOS") + 2
+    elif "RESULTADOS" == palabras[0] and "A" == palabras[1] and "LOS" == palabras[2]:
+        indice_inicio = palabras.index("RESULTADOS") + 3
+    elif "RESULTADOS" == palabras[0] and "DEL" != palabras[1]:
         indice_inicio = palabras.index("RESULTADOS") + 1
     else:
         return None  # No se encontraron palabras clave
