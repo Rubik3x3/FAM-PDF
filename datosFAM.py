@@ -63,9 +63,23 @@ def resultadosAtletas(texto):
             categoriaActual = categoria
             print(f"Coincidencia encontrada: {categoria}")
             if palabras[indice+1] == "|||":
-                print(f'{"V"*50}')
+                claves_prueba = [""]
+                variables_prueba = []
+                patronSeries = re.compile(r'^SERIE_\d+$')
+                
+                if "FINAL_A" in palabras[indice:]:
+                    indice_fin = palabras[indice:].index("FINAL_A") + indice
+                    print("FINAL")
+                elif patronSeries in palabras[indice:]:
+                    incide_fin = palabras[indice:].index(patronSeries)
+                    print("SERIE")
+                elif ":" in palabras[indice:]:
+                    print("PUNTO")
+                    indice_fin = palabras[indice:].index(":") + indice
+                else:
+                    print("NADAA")
             else:
-                print(f'{"F"*50}')
+                print(f'{"!#$%&/()"*5}')
         else:
             print("Ninguna coincidencia encontrada.")
             pass
