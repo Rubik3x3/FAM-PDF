@@ -1,6 +1,8 @@
 import re
 import json
 
+categorias = ["U12-M","U12-F","U14-M","U14-F","U16-M","U16-F","U17-M","U17-F","U18-M","U18-F","U20-M","U20-F","U23-M","U23-F","MAYORES-M","MAYORES-F",]
+
 def guardarJsonVariables(variables_torneo):
     print(variables_torneo)
 
@@ -38,7 +40,7 @@ def guardarJsonVariables(variables_torneo):
             archivo.seek(0)
 
             # Guardar el JSON actualizado
-            json.dump(json_torneo, archivo, indent=4)
+            json.dump(json_torneo, archivo, indent=4, ensure_ascii=False)
             print(f"Datos del torneo '{nombre_torneo}' agregados al JSON.")
 
     except FileNotFoundError:
@@ -47,8 +49,26 @@ def guardarJsonVariables(variables_torneo):
 
         with open('torneos.json', 'w',encoding='utf-8') as archivo:
             # Guardar el nuevo JSON
-            json.dump(json_torneo, archivo, indent=4)
-            print(f"Archivo 'torneos.json' creado con los datos del torneo '{nombre_torneo}'.")
+            json.dump(json_torneo, archivo, indent=4, ensure_ascii=False)
+            print(f"Archivo 'torneos.json' creado con los datos del torneo '{nombre_torneo}'.")    
+
+def resultadosAtletas(texto):
+    palabras = texto.split()
+    indice = palabras.index("FISCALIZA:")+2
+    categoriaActual = ""
+    if palabras[indice] == "ESTOS":
+        indice += 23
+    for categoria in categorias:
+        if categoria == palabras[indice]:
+            categoriaActual = categoria
+            print(f"Coincidencia encontrada: {categoria}")
+            if palabras[indice+1] == "|||":
+                print(f'{"V"*50}')
+            else:
+                print(f'{"F"*50}')
+        else:
+            print("Ninguna coincidencia encontrada.")
+            pass
 
 def variablesTorneo(texto):
     claves = ["FECHA:","SIGLAS-LUGAR:","PAIS:","ORGANIZA:","FISCALIZA:","|||"]

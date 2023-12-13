@@ -1,5 +1,6 @@
 import os
 import PyPDF2
+import re
 
 def generarTXT(texto, nombre):
     if not os.path.exists("TEXTOS"):
@@ -71,6 +72,18 @@ def duplicarDocumento(viejo, nuevo):
         print("El archivo original no fue encontrado.")
     except Exception as e:
         print(f"Error al duplicar el archivo: {e}")
+
+def reemplazarEspaciosPorNada(archivo):
+    archivoFINAL = archivo
+
+    with open(archivoFINAL, 'r') as archivo:
+        contenido = archivo.read()
+
+    patron = re.compile(r'(_\s+_)')
+    contenido = patron.sub(lambda match: match.group(0).replace(" ", ""), contenido)
+
+    with open(archivoFINAL, 'w') as archivo:
+        archivo.write(contenido)
 
 def reemplazarCaracter(archivo,palabra,palabraNueva):
     palabra_a_reemplazar = palabra

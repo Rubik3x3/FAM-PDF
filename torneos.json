@@ -36,8 +36,8 @@
             "organiza": "FAM",
             "fiscaliza": "FAM"
         },
-        "TORNEO PRIMAVERA PORTE\u00d1A": {
-            "nombre": "TORNEO PRIMAVERA PORTE\u00d1A",
+        "TORNEO PRIMAVERA PORTEÑA": {
+            "nombre": "TORNEO PRIMAVERA PORTEÑA",
             "fecha-inicio": "23/09/2023",
             "fecha-fin": "23/09/2023",
             "siglas-lugar": "FAMCEN230923",
@@ -54,8 +54,8 @@
             "organiza": "FAM",
             "fiscaliza": "FAM"
         },
-        "TORNEO OTO\u00d1O PORTE\u00d1O": {
-            "nombre": "TORNEO OTO\u00d1O PORTE\u00d1O",
+        "TORNEO OTOÑO PORTEÑO": {
+            "nombre": "TORNEO OTOÑO PORTEÑO",
             "fecha-inicio": "29/04/2023",
             "fecha-fin": "29/04/2023",
             "siglas-lugar": "FAMCEN2904",
@@ -144,8 +144,8 @@
             "organiza": "FAM",
             "fiscaliza": "FAM"
         },
-        "JUEGOS PORTE\u00d1OS": {
-            "nombre": "JUEGOS PORTE\u00d1OS",
+        "JUEGOS PORTEÑOS": {
+            "nombre": "JUEGOS PORTEÑOS",
             "fecha-inicio": "19/08/2023",
             "fecha-fin": "19/08/2023",
             "siglas-lugar": "CABAPO2023",
@@ -162,8 +162,8 @@
             "organiza": "FAM",
             "fiscaliza": "FAM"
         },
-        "TORNEO JUAN CARLOS \u201cPOLDO\u201d KERWITZ (ACTUALIZADO AL 17/04)": {
-            "nombre": "TORNEO JUAN CARLOS \u201cPOLDO\u201d KERWITZ (ACTUALIZADO AL 17/04)",
+        "TORNEO JUAN CARLOS “POLDO” KERWITZ (ACTUALIZADO AL 17/04)": {
+            "nombre": "TORNEO JUAN CARLOS “POLDO” KERWITZ (ACTUALIZADO AL 17/04)",
             "fecha-inicio": "15/04/2023",
             "fecha-fin": "15/04/2023",
             "siglas-lugar": "FAMCEN1504",
@@ -171,8 +171,8 @@
             "organiza": "FAM",
             "fiscaliza": "FAM"
         },
-        "TORNEO INVIERNO PORTE\u00d1O": {
-            "nombre": "TORNEO INVIERNO PORTE\u00d1O",
+        "TORNEO INVIERNO PORTEÑO": {
+            "nombre": "TORNEO INVIERNO PORTEÑO",
             "fecha-inicio": "05/08/2023",
             "fecha-fin": "05/08/2023",
             "siglas-lugar": "POFAM0508",
@@ -180,8 +180,8 @@
             "organiza": "FAM",
             "fiscaliza": "FAM"
         },
-        "TORNEO D\u00cdA DE LA MUJER": {
-            "nombre": "TORNEO D\u00cdA DE LA MUJER",
+        "TORNEO DÍA DE LA MUJER": {
+            "nombre": "TORNEO DÍA DE LA MUJER",
             "fecha-inicio": "11/03/2023",
             "fecha-fin": "11/03/2023",
             "siglas-lugar": "FAMCEN1103",
@@ -198,8 +198,8 @@
             "organiza": "FAM",
             "fiscaliza": "FAM"
         },
-        "TORNEO JOSE DE SAN MART\u00cdN": {
-            "nombre": "TORNEO JOSE DE SAN MART\u00cdN",
+        "TORNEO JOSE DE SAN MARTÍN": {
+            "nombre": "TORNEO JOSE DE SAN MARTÍN",
             "fecha-inicio": "12/08/2023",
             "fecha-fin": "12/08/2023",
             "siglas-lugar": "FAMCEN120823",
