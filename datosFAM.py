@@ -1,7 +1,37 @@
 import re
 import json
 
-categorias = ["U12-M","U12-F","U14-M","U14-F","U16-M","U16-F","U17-M","U17-F","U18-M","U18-F","U20-M","U20-F","U23-M","U23-F","MAYORES-M","MAYORES-F",]
+categorias = [
+    "U12-M","U12-F",
+    "U14-M","U14-F",
+    "U16-M","U16-F",
+    "U17-M","U17-F",
+    "U18-M","U18-F",
+    "U20-M","U20-F",
+    "U23-M","U23-F",
+    "MAYORES-M","MAYORES-F",
+]
+
+pruebas = [
+    "100 ELECTRONICO",
+    "200 ELECTRONICO",
+    "300 ELECTRONICO",
+    "400 ELECTRONICO",
+    "600 ELECTRONICO",
+    "800 ELECTRONICO",
+
+    "1500 ELECTRONICO",
+    "3000 ELECTRONICO",
+
+    "80 C/V ELECTRONICO",
+    "100 C/V ELECTRONICO",
+    "110 C/V ELECTRONICO",
+    "400 C/V ELECTRONICO",
+
+    "ALTO",
+    "TRIPLE",
+    "LARGO",
+]
 
 def guardarJsonVariables(variables_torneo):
     print(variables_torneo)
@@ -63,25 +93,47 @@ def resultadosAtletas(texto):
             categoriaActual = categoria
             print(f"Coincidencia encontrada: {categoria}")
             if palabras[indice+1] == "|||":
-                claves_prueba = [""]
-                variables_prueba = []
-                patronSeries = re.compile(r'^SERIE_\d+$')
-                
-                if "FINAL_A" in palabras[indice:]:
-                    indice_fin = palabras[indice:].index("FINAL_A") + indice
-                    print("FINAL")
-                elif patronSeries in palabras[indice:]:
-                    incide_fin = palabras[indice:].index(patronSeries)
-                    print("SERIE")
-                elif ":" in palabras[indice:]:
-                    print("PUNTO")
-                    indice_fin = palabras[indice:].index(":") + indice
-                else:
-                    print("NADAA")
+                prueba = ""
+                serie = ""
+                palabra_sf = ""
+
+                # Bandera para indicar si se ha encontrado ":" o una palabra que comienza con "S" o "F"
+                encontrado = False
+
+                # Recorrer las palabras a partir de la posición siguiente al "|||"
+                for i, palabra in enumerate(palabras[indice + 1:]):
+                    if encontrado:
+
+                        if palabras[palabras.index(palabra) -2] == ":":
+                            print(palabras[palabras.index(palabra) + -2])
+                            if palabras[palabras.index(palabra) + 1].startswith(("SERIE", "FINAL")):
+                                palabra_sf = palabras[palabras.index(palabra) + 1]
+                            elif palabras[palabras.index(palabra) + 2].startswith(("SERIE", "FINAL")):
+                                palabra_sf = palabras[palabras.index(palabra) + 2]
+                            print("PUNTO---")
+                            break
+                        elif palabras[palabras.index(palabra) + 5].startswith(("SERIE", "FINAL")):
+                            print("FINAL---")
+                            palabra_sf = palabra
+                            break
+                    elif palabra == ":" or palabra.startswith(("SERIE", "FINAL")):
+                        encontrado = True
+                    else:
+                        prueba += palabra + " "
+                        prueba = prueba.replace("|||","")
+
+                # Eliminar el espacio final, si es necesario
+                prueba = prueba.strip()
+
+                # Imprimir los resultados
+                print("Prueba:", prueba)
+                print("Serie:", serie)
+                print("Palabra con S o F:", palabra_sf)
+
             else:
                 print(f'{"!#$%&/()"*5}')
         else:
-            print("Ninguna coincidencia encontrada.")
+            #print("Ninguna coincidencia encontrada.")
             pass
 
 def variablesTorneo(texto):
