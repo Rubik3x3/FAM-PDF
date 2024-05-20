@@ -37,18 +37,13 @@ vientos = []
 for linea in lineas:
     campos = linea.split()
     posiciones.append(campos[0])
-    
-    # Unir el nombre completo
-    nombre_completo = ' '.join(campos[1:])
-    fecha_index = nombre_completo.rfind('/')  # Encontrar el último '/' para separar la fecha de nacimiento
-    nombres.append(nombre_completo[:fecha_index].strip())
-    fechas_nacimiento.append(nombre_completo[fecha_index:].strip())  # Obtener la fecha de nacimiento
-    
-    clubes.append(campos[-6])
-    federaciones.append(campos[-5])
-    paises.append(campos[-4])
-    tiempos.append(campos[-3])
-    vientos.append(campos[-2])
+    nombres.append(' '.join(campos[1:-7]))  # Unir el nombre completo
+    fechas_nacimiento.append(' '.join(campos[-7:-4]))  # Unir la fecha de nacimiento
+    clubes.append(campos[-4])
+    federaciones.append(campos[-3])
+    paises.append(campos[-2])
+    tiempos.append(campos[-1])
+    vientos.append(campos[-0])
 
 # Crear el DataFrame de Pandas
 data = {
