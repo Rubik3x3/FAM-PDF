@@ -1,7 +1,9 @@
+#main.py
 import os
 import PyPDF2
 import re
 import json
+import pandas
 import glob
 
 import textoFAM
@@ -33,7 +35,7 @@ def obtenerDatos():
     with open("TEXTOS/FINAL.txt", 'r') as archivo:
         contenido = archivo.read()
     variables_torneo = datosFAM.variablesTorneo(contenido)
-    datosFAM.guardarJsonVariables(variables_torneo)
+    datosFAM.guardarJsonYCSVVariables(variables_torneo)
     extrasFAM.textoFinalizoTarea("OBTENER VARIABLES","-",30)
     datosFAM.resultadosAtletas(contenido)
 

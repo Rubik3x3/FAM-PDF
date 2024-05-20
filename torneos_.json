@@ -1,0 +1,211 @@
+{
+    "torneos": {
+        "CAMPEONATO METROPOLITANO U18": {
+            "nombre": "CAMPEONATO METROPOLITANO U18",
+            "fecha-inicio": "01/07/2023",
+            "fecha-fin": "02/07/2023",
+            "siglas-lugar": "FAMPOJULIO",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        },
+        "TORNEO RUBEN CODERCH": {
+            "nombre": "TORNEO RUBEN CODERCH",
+            "fecha-inicio": "04/03/2023",
+            "fecha-fin": "04/03/2023",
+            "siglas-lugar": "FAMCEN0403",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        },
+        "JUAR REGION CONURBANO NORTE 2023": {
+            "nombre": "JUAR REGION CONURBANO NORTE 2023",
+            "fecha-inicio": "28/06/2023",
+            "fecha-fin": "28/06/2023",
+            "siglas-lugar": "PO28062023",
+            "pais": "ARG",
+            "organiza": "JUAR",
+            "fiscaliza": "FAM"
+        },
+        "TORNEO RICARDO BONFIGLIOLI": {
+            "nombre": "TORNEO RICARDO BONFIGLIOLI",
+            "fecha-inicio": "25/11/2023",
+            "fecha-fin": "25/11/2023",
+            "siglas-lugar": "FAMPO2511",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        },
+        "TORNEO PRIMAVERA PORTEÑA": {
+            "nombre": "TORNEO PRIMAVERA PORTEÑA",
+            "fecha-inicio": "23/09/2023",
+            "fecha-fin": "23/09/2023",
+            "siglas-lugar": "FAMCEN230923",
+            "pais": "ARG",
+            "organiza": "ARG",
+            "fiscaliza": "ARG"
+        },
+        "CAMPEONATO METROPOLITANO U20": {
+            "nombre": "CAMPEONATO METROPOLITANO U20",
+            "fecha-inicio": "18/03/2023",
+            "fecha-fin": "19/03/2023",
+            "siglas-lugar": "FAMCENARDMAR",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        },
+        "TORNEO OTOÑO PORTEÑO": {
+            "nombre": "TORNEO OTOÑO PORTEÑO",
+            "fecha-inicio": "29/04/2023",
+            "fecha-fin": "29/04/2023",
+            "siglas-lugar": "FAMCEN2904",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        },
+        "TORNEO MALVINAS ARGENTINAS": {
+            "nombre": "TORNEO MALVINAS ARGENTINAS",
+            "fecha-inicio": "01/04/2023",
+            "fecha-fin": "01/04/2023",
+            "siglas-lugar": "FAMCEN14",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        },
+        "TORNEO JULIO ANTISTA": {
+            "nombre": "TORNEO JULIO ANTISTA",
+            "fecha-inicio": "03/06/2023",
+            "fecha-fin": "03/06/2023",
+            "siglas-lugar": "FAMPO36",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        },
+        "CAMPEONATO METROPOLITANO U1 4": {
+            "nombre": "CAMPEONATO METROPOLITANO U1 4",
+            "fecha-inicio": "11/11/2023",
+            "fecha-fin": "11/11/2023",
+            "siglas-lugar": "FAMPOU1423",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        },
+        "CAMPEONATO METROPOLITANO DE MAYORES": {
+            "nombre": "CAMPEONATO METROPOLITANO DE MAYORES",
+            "fecha-inicio": "22/04/2023",
+            "fecha-fin": "23/04/2023",
+            "siglas-lugar": "FAMCEN2223",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        },
+        "JUEGOS UFEDEM 2023": {
+            "nombre": "JUEGOS UFEDEM 2023",
+            "fecha-inicio": "02/09/2023",
+            "fecha-fin": "02/09/2023",
+            "siglas-lugar": "FAMCEN120823",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        },
+        "TORNEO GERARDO BONNHOFF": {
+            "nombre": "TORNEO GERARDO BONNHOFF",
+            "fecha-inicio": "06/05/2023",
+            "fecha-fin": "06/05/2023",
+            "siglas-lugar": "FAMCENAR0605",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        },
+        "TORNEO DIA DEL MAESTRO": {
+            "nombre": "TORNEO DIA DEL MAESTRO",
+            "fecha-inicio": "16/09/2023",
+            "fecha-fin": "16/09/2023",
+            "siglas-lugar": "FAMCEN160923",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        },
+        "TORNEO JUAR REGION CABA": {
+            "nombre": "TORNEO JUAR REGION CABA",
+            "fecha-inicio": "17/06/2023",
+            "fecha-fin": "17/06/2023",
+            "siglas-lugar": "POCABA2023",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        },
+        "TORNEO GERARDO BONHOFF": {
+            "nombre": "TORNEO GERARDO BONHOFF",
+            "fecha-inicio": "28/10/2023",
+            "fecha-fin": "28/10/2023",
+            "siglas-lugar": "PO28102023",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        },
+        "JUEGOS PORTEÑOS": {
+            "nombre": "JUEGOS PORTEÑOS",
+            "fecha-inicio": "19/08/2023",
+            "fecha-fin": "19/08/2023",
+            "siglas-lugar": "CABAPO2023",
+            "pais": "ARG",
+            "organiza": "CABA",
+            "fiscaliza": "FAM"
+        },
+        "CAMPEONATO METROPOLITANO U23": {
+            "nombre": "CAMPEONATO METROPOLITANO U23",
+            "fecha-inicio": "26/08/2023",
+            "fecha-fin": "27/08/2023",
+            "siglas-lugar": "FAMPO0823",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        },
+        "TORNEO JUAN CARLOS “POLDO” KERWITZ (ACTUALIZADO AL 17/04)": {
+            "nombre": "TORNEO JUAN CARLOS “POLDO” KERWITZ (ACTUALIZADO AL 17/04)",
+            "fecha-inicio": "15/04/2023",
+            "fecha-fin": "15/04/2023",
+            "siglas-lugar": "FAMCEN1504",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        },
+        "TORNEO INVIERNO PORTEÑO": {
+            "nombre": "TORNEO INVIERNO PORTEÑO",
+            "fecha-inicio": "05/08/2023",
+            "fecha-fin": "05/08/2023",
+            "siglas-lugar": "POFAM0508",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        },
+        "TORNEO DÍA DE LA MUJER": {
+            "nombre": "TORNEO DÍA DE LA MUJER",
+            "fecha-inicio": "11/03/2023",
+            "fecha-fin": "11/03/2023",
+            "siglas-lugar": "FAMCEN1103",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        },
+        "CAMPEONATO METROPOLITANO U16": {
+            "nombre": "CAMPEONATO METROPOLITANO U16",
+            "fecha-inicio": "07/10/2023",
+            "fecha-fin": "08/10/2023",
+            "siglas-lugar": "FAMCENU16",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        },
+        "TORNEO JOSE DE SAN MARTÍN": {
+            "nombre": "TORNEO JOSE DE SAN MARTÍN",
+            "fecha-inicio": "12/08/2023",
+            "fecha-fin": "12/08/2023",
+            "siglas-lugar": "FAMCEN120823",
+            "pais": "ARG",
+            "organiza": "FAM",
+            "fiscaliza": "FAM"
+        }
+    }
+}

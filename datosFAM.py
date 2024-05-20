@@ -1,5 +1,8 @@
+#datosFAM.py
 import re
+import os
 import json
+import pandas as pd
 
 categorias = [
     "U12-M","U12-F",
@@ -33,9 +36,7 @@ pruebas = [
     "LARGO",
 ]
 
-def guardarJsonVariables(variables_torneo):
-    print(variables_torneo)
-
+def guardarJsonYCSVVariables(variables_torneo):
     nombre_torneo = variables_torneo[0]
     fecha_torneo = variables_torneo[1]
     siglaslugar_torneo = variables_torneo[2]
@@ -52,35 +53,30 @@ def guardarJsonVariables(variables_torneo):
         "organiza": organiza_torneo,
         "fiscaliza": fiscaliza_torneo,
     }
+    df = pd.DataFrame([{'id': 0,'nombre': nombre_torneo, 'fecha_inicio': fecha_torneo[0], 'fecha_fin': fecha_torneo[1],'siglas_lugar':siglaslugar_torneo,'pais':pais_torneo,'organiza': organiza_torneo,'fiscaliza': fiscaliza_torneo}])
+    df.to_csv('torneos.csv', mode='a', index=False, header=not os.path.exists('torneos.csv'))
+    # Guardar en JSON
     try:
         with open('torneos.json', 'r+') as archivo:
-            # Leer datos existentes
             json_torneo = json.load(archivo)
 
-            # Verificar si el torneo ya existe en el JSON
             if nombre_torneo in json_torneo.get("torneos", {}):
                 if json_torneo["torneos"][nombre_torneo]["fecha-inicio"] == fecha_torneo[0]:
                     print(f"El torneo '{nombre_torneo}' ya existe en el JSON.")
                     return
 
-
-            # Agregar el nuevo torneo al diccionario principal
             json_torneo.setdefault("torneos", {})[nombre_torneo] = datos_torneo
 
             archivo.seek(0)
-
-            # Guardar el JSON actualizado
             json.dump(json_torneo, archivo, indent=4, ensure_ascii=False)
             print(f"Datos del torneo '{nombre_torneo}' agregados al JSON.")
 
     except FileNotFoundError:
-        # Si no existe, crear un nuevo diccionario
         json_torneo = {"torneos": {nombre_torneo: datos_torneo}}
-
-        with open('torneos.json', 'w',encoding='utf-8') as archivo:
-            # Guardar el nuevo JSON
+        with open('torneos.json', 'w', encoding='utf-8') as archivo:
             json.dump(json_torneo, archivo, indent=4, ensure_ascii=False)
             print(f"Archivo 'torneos.json' creado con los datos del torneo '{nombre_torneo}'.")    
+
 
 def resultadosAtletas(texto):
     palabras = texto.split()
