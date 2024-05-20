@@ -20,10 +20,8 @@ datos = """
 16 BRUNO CARRASC O MARTINEZ / /2006 CHAMA - FAM ARG 24.33 -0.5
 """
 
-# Dividir los datos en líneas
 lineas = datos.strip().split('\n')
 
-# Organizar los datos en listas
 posiciones = []
 nombres = []
 fechas_nacimiento = []
@@ -33,19 +31,17 @@ paises = []
 tiempos = []
 vientos = []
 
-# Iterar sobre las líneas para extraer los datos
 for linea in lineas:
     campos = linea.split()
     posiciones.append(campos[0])
-    nombres.append(' '.join(campos[1:-7]))  # Unir el nombre completo
-    fechas_nacimiento.append(' '.join(campos[-7:-4]))  # Unir la fecha de nacimiento
+    nombres.append(' '.join(campos[1:-7]))
+    fechas_nacimiento.append(' '.join(campos[-7:-4])) 
     clubes.append(campos[-4])
     federaciones.append(campos[-3])
     paises.append(campos[-2])
     tiempos.append(campos[-1])
     vientos.append(campos[-0])
 
-# Crear el DataFrame de Pandas
 data = {
     'Posición': posiciones,
     'Nombre': nombres,
@@ -59,5 +55,4 @@ data = {
 
 df = pd.DataFrame(data)
 
-# Mostrar el DataFrame
 print(df)
