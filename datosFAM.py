@@ -79,6 +79,17 @@ def guardarJsonYCSVVariables(variables_torneo):
 
 
 def resultadosAtletas(texto):
+    patron_nombre_fecha = r'\d+\s([A-Z\s]+)\s+(\d+/\d+\s*/\d+)'
+
+# Buscar coincidencias en el texto
+    coincidencias = re.findall(patron_nombre_fecha, texto)
+
+    # Imprimir las coincidencias encontradas
+    for coincidencia in coincidencias:
+        print("Nombre:", coincidencia[0])
+        print("Fecha de nacimiento:", coincidencia[1])
+        print()
+
     palabras = texto.split()
     indice = palabras.index("FISCALIZA:")+2
     categoriaActual = ""
