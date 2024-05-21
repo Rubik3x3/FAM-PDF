@@ -79,16 +79,26 @@ def guardarJsonYCSVVariables(variables_torneo):
 
 
 def resultadosAtletas(texto):
-    patron_nombre_fecha = r'\d+\s([A-Z\s]+)\s+(\d+/\d+\s*/\d+)'
+    patron_nombre_fecha = r'\d+\s+([A-Z\s]+)\s+(\d+/\d+\s*/\d+)'
 
 # Buscar coincidencias en el texto
-    coincidencias = re.findall(patron_nombre_fecha, texto)
+    coincidencias_nombre_fecha = re.findall(patron_nombre_fecha, texto)
 
-    # Imprimir las coincidencias encontradas
-    for coincidencia in coincidencias:
-        print("Nombre:", coincidencia[0])
-        print("Fecha de nacimiento:", coincidencia[1])
-        print()
+    # Lista para almacenar los registros de los atletas
+    atletas = []
+
+    # Iterar sobre las coincidencias y crear un registro para cada atleta
+    for coincidencia in coincidencias_nombre_fecha:
+        nombre = coincidencia[0].strip()
+        fecha_nacimiento = coincidencia[1]
+        atleta = {'Nombre': nombre, 'Fecha de nacimiento': fecha_nacimiento}
+        atletas.append(atleta)
+
+    # Crear un DataFrame de Pandas a partir de la lista de atletas
+    df_atletas = pd.DataFrame(atletas)
+
+    # Imprimir el DataFrame
+    print(df_atletas)
 
     palabras = texto.split()
     indice = palabras.index("FISCALIZA:")+2
