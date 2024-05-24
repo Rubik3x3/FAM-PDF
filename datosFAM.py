@@ -62,26 +62,26 @@ def guardarJsonYCSVVariables(variables_torneo):
 
             if nombre_torneo in json_torneo.get("torneos", {}):
                 if json_torneo["torneos"][nombre_torneo]["fecha-inicio"] == fecha_torneo[0]:
-                    print(f"El torneo '{nombre_torneo}' ya existe en el JSON.")
+                    #print(f"El torneo '{nombre_torneo}' ya existe en el JSON.")
                     return
 
             json_torneo.setdefault("torneos", {})[nombre_torneo] = datos_torneo
 
             archivo.seek(0)
             json.dump(json_torneo, archivo, indent=4, ensure_ascii=False)
-            print(f"Datos del torneo '{nombre_torneo}' agregados al JSON.")
+            #print(f"Datos del torneo '{nombre_torneo}' agregados al JSON.")
 
     except FileNotFoundError:
         json_torneo = {"torneos": {nombre_torneo: datos_torneo}}
         with open('torneos.json', 'w', encoding='utf-8') as archivo:
             json.dump(json_torneo, archivo, indent=4, ensure_ascii=False)
-            print(f"Archivo 'torneos.json' creado con los datos del torneo '{nombre_torneo}'.")    
+            #print(f"Archivo 'torneos.json' creado con los datos del torneo '{nombre_torneo}'.")    
 
 
 def resultadosAtletas(texto):
     patron_nombre_fecha = r'\d+\s+([A-Z\s]+)\s+(\d+/\d+\s*/\d+)'
-
-# Buscar coincidencias en el texto
+    #print(texto)
+    # Buscar coincidencias en el texto
     coincidencias_nombre_fecha = re.findall(patron_nombre_fecha, texto)
 
     # Lista para almacenar los registros de los atletas
@@ -98,7 +98,7 @@ def resultadosAtletas(texto):
     df_atletas = pd.DataFrame(atletas)
 
     # Imprimir el DataFrame
-    print(df_atletas)
+    #print(df_atletas)
 
     palabras = texto.split()
     indice = palabras.index("FISCALIZA:")+2
@@ -108,7 +108,7 @@ def resultadosAtletas(texto):
     for categoria in categorias:
         if categoria == palabras[indice]:
             categoriaActual = categoria
-            print(f"Coincidencia encontrada: {categoria}")
+            #print(f"Coincidencia encontrada: {categoria}")
             if palabras[indice+1] == "|||":
                 prueba = ""
                 serie = ""
@@ -122,15 +122,15 @@ def resultadosAtletas(texto):
                     if encontrado:
 
                         if palabras[palabras.index(palabra) -2] == ":":
-                            print(palabras[palabras.index(palabra) + -2])
+                            #print(palabras[palabras.index(palabra) + -2])
                             if palabras[palabras.index(palabra) + 1].startswith(("SERIE", "FINAL")):
                                 palabra_sf = palabras[palabras.index(palabra) + 1]
                             elif palabras[palabras.index(palabra) + 2].startswith(("SERIE", "FINAL")):
                                 palabra_sf = palabras[palabras.index(palabra) + 2]
-                            print("PUNTO---")
+                            #print("PUNTO---")
                             break
                         elif palabras[palabras.index(palabra) + 5].startswith(("SERIE", "FINAL")):
-                            print("FINAL---")
+                            #print("FINAL---")
                             palabra_sf = palabra
                             break
                     elif palabra == ":" or palabra.startswith(("SERIE", "FINAL")):
@@ -143,12 +143,13 @@ def resultadosAtletas(texto):
                 prueba = prueba.strip()
 
                 # Imprimir los resultados
-                print("Prueba:", prueba)
-                print("Serie:", serie)
-                print("Palabra con S o F:", palabra_sf)
+                #print("Prueba:", prueba)
+                #print("Serie:", serie)
+                #print("Palabra con S o F:", palabra_sf)
 
             else:
-                print(f'{"!#$%&/()"*5}')
+                pass
+                #print(f'{"!#$%&/()"*5}')
         else:
             #print("Ninguna coincidencia encontrada.")
             pass
@@ -185,7 +186,8 @@ def variablesTorneo(texto):
             if match:
                 palabra_siguiente = match.group(1)
             else:
-                print("No se encontró 'FISCALIZA:' en el texto.")
+                pass
+                #print("No se encontró 'FISCALIZA:' en el texto.")
 
             variables.append(palabra_siguiente)
     fechaMal = variables[1]

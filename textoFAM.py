@@ -25,7 +25,7 @@ def generarTextoMAYUS(texto, nombre):
 
 def convertirATexto(archivo):
     with open(archivo, 'rb') as pdf:
-        reader = PyPDF2.PdfFileReader(pdf, strict=False)
+        reader = PyPDF2.PdfReader(pdf)
         pdf_text = []
 
         for page in reader.pages:
