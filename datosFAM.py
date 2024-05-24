@@ -81,78 +81,24 @@ def guardarJsonYCSVVariables(variables_torneo):
 def resultadosAtletas(texto):
     patron_nombre_fecha = r'\d+\s+([A-Z\s]+)\s+(\d+/\d+\s*/\d+)'
     #print(texto)
-    # Buscar coincidencias en el texto
-    coincidencias_nombre_fecha = re.findall(patron_nombre_fecha, texto)
 
-    # Lista para almacenar los registros de los atletas
-    atletas = []
+    patron_nombre = r'(TORNEO|CAMPEONATO).*?(?=FECHA:)'
+    nombre_match = re.search(patron_nombre, texto)
+    nombre = nombre_match.group(1)
 
-    # Iterar sobre las coincidencias y crear un registro para cada atleta
-    for coincidencia in coincidencias_nombre_fecha:
-        nombre = coincidencia[0].strip()
-        fecha_nacimiento = coincidencia[1]
-        atleta = {'Nombre': nombre, 'Fecha de nacimiento': fecha_nacimiento}
-        atletas.append(atleta)
+    patron_fecha = r'FECHA: (\d{2}/\d{2}/\d{4}) - (\d{2}/\d{2}/\d{4})'
+    fecha_match = re.search(patron_fecha, texto)
+    fecha_inicio = fecha_match.group(1)
+    fecha_fin = fecha_match.group(2)
 
-    # Crear un DataFrame de Pandas a partir de la lista de atletas
-    df_atletas = pd.DataFrame(atletas)
+    patron_siglas = r'SIGLAS-LUGAR:\s*(\S+).*?PAIS:'
+    siglas_match = re.search(patron_siglas, texto)
+    siglas = siglas_match.group(1)
+    print("Nombre:",nombre)
+    print("Fecha Inicio:",fecha_inicio)
+    print("Fecha Fin:",fecha_fin)
+    print("Siglas:",siglas)
 
-    # Imprimir el DataFrame
-    #print(df_atletas)
-
-    palabras = texto.split()
-    indice = palabras.index("FISCALIZA:")+2
-    categoriaActual = ""
-    if palabras[indice] == "ESTOS":
-        indice += 23
-    for categoria in categorias:
-        if categoria == palabras[indice]:
-            categoriaActual = categoria
-            #print(f"Coincidencia encontrada: {categoria}")
-            if palabras[indice+1] == "|||":
-                prueba = ""
-                serie = ""
-                palabra_sf = ""
-
-                # Bandera para indicar si se ha encontrado ":" o una palabra que comienza con "S" o "F"
-                encontrado = False
-
-                # Recorrer las palabras a partir de la posición siguiente al "|||"
-                for i, palabra in enumerate(palabras[indice + 1:]):
-                    if encontrado:
-
-                        if palabras[palabras.index(palabra) -2] == ":":
-                            #print(palabras[palabras.index(palabra) + -2])
-                            if palabras[palabras.index(palabra) + 1].startswith(("SERIE", "FINAL")):
-                                palabra_sf = palabras[palabras.index(palabra) + 1]
-                            elif palabras[palabras.index(palabra) + 2].startswith(("SERIE", "FINAL")):
-                                palabra_sf = palabras[palabras.index(palabra) + 2]
-                            #print("PUNTO---")
-                            break
-                        elif palabras[palabras.index(palabra) + 5].startswith(("SERIE", "FINAL")):
-                            #print("FINAL---")
-                            palabra_sf = palabra
-                            break
-                    elif palabra == ":" or palabra.startswith(("SERIE", "FINAL")):
-                        encontrado = True
-                    else:
-                        prueba += palabra + " "
-                        prueba = prueba.replace("|||","")
-
-                # Eliminar el espacio final, si es necesario
-                prueba = prueba.strip()
-
-                # Imprimir los resultados
-                #print("Prueba:", prueba)
-                #print("Serie:", serie)
-                #print("Palabra con S o F:", palabra_sf)
-
-            else:
-                pass
-                #print(f'{"!#$%&/()"*5}')
-        else:
-            #print("Ninguna coincidencia encontrada.")
-            pass
 
 def variablesTorneo(texto):
     claves = ["FECHA:","SIGLAS-LUGAR:","PAIS:","ORGANIZA:","FISCALIZA:","|||"]
