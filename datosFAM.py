@@ -83,8 +83,13 @@ def resultadosAtletas(texto):
     #print(texto)
 
     patron_nombre = r'(TORNEO|CAMPEONATO).*?(?=FECHA:)'
-    nombre_match = re.search(patron_nombre, texto)
-    nombre = nombre_match.group(1)
+    nombre_match = re.finditer(patron_nombre, texto)
+    nombre = ""
+    for nombre_item in nombre_match:
+        for group in nombre_item.groups():
+            if group:
+                nombre += group + " "
+    nombre = nombre.strip()
 
     patron_fecha = r'FECHA: (\d{2}/\d{2}/\d{4}) - (\d{2}/\d{2}/\d{4})'
     fecha_match = re.search(patron_fecha, texto)
