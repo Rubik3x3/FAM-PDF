@@ -17,7 +17,6 @@ def generarTXT(texto, nombre):
 
     #print(f'Archivo {nombre} generado.')
 
-
 def generarTextoMAYUS(texto, nombre):
     textoMayus = texto.upper()
     generarTXT(textoMayus, nombre+"-MAYUS")

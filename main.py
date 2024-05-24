@@ -22,6 +22,7 @@ def main():
         generarTextos(archivo_pdf)
         obtenerDatos()
     print(f'{"<"*25} PROGRAMA FINALIZADO {">"*25}')
+    
 def generarTextos(pdf):
     texto_definitivo = str("")
     texto_definitivo = textoFAM.convertirATexto(pdf)
