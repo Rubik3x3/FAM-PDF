@@ -82,7 +82,9 @@ def resultadosAtletas(texto):
     patron_nombre_fecha = r'\d+\s+([A-Z\s]+)\s+(\d+/\d+\s*/\d+)'
     #print(texto)
 
-    patron_nombre = r'(TORNEO|CAMPEONATO).*?(?=FECHA:)'
+    patron_nombre = (r'(TORNEO|CAMPEONATO|JUEGOS)\s+(.*?)\s+(?=FECHA:)')
+
+
     nombre_match = re.finditer(patron_nombre, texto)
     nombre = ""
     for nombre_item in nombre_match:
@@ -99,10 +101,26 @@ def resultadosAtletas(texto):
     patron_siglas = r'SIGLAS-LUGAR:\s*(\S+).*?PAIS:'
     siglas_match = re.search(patron_siglas, texto)
     siglas = siglas_match.group(1)
+
+    patron_pais = r'PAIS:\s*(\S+).*?ORGANIZA:'
+    pais_match = re.search(patron_pais, texto)
+    pais = pais_match.group(1)
+
+    patron_organiza = r'ORGANIZA:\s*(\S+).*?FISCALIZA:'
+    organiza_match = re.search(patron_organiza, texto)
+    organiza = organiza_match.group(1)
+
+    patron_fiscaliza = r'FISCALIZA:\s*(\w+)'
+    fiscaliza_match = re.search(patron_fiscaliza, texto)
+    fiscaliza = fiscaliza_match.group(1)
+
     print("Nombre:",nombre)
     print("Fecha Inicio:",fecha_inicio)
     print("Fecha Fin:",fecha_fin)
     print("Siglas:",siglas)
+    print("País:",pais)
+    print("Organiza:",organiza)
+    print("Fiscaliza:",fiscaliza)
 
 
 def variablesTorneo(texto):
