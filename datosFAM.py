@@ -3,7 +3,6 @@ import re
 import os
 import json
 import pandas as pd
-
 categorias = [
     "U12-M","U12-F",
     "U14-M","U14-F",
