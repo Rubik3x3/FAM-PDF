@@ -1,0 +1,379 @@
+ 
+  
+ 
+ 
+ 
+ 
+RESULTADOS  TORNEO JUAR REGION CABA  
+FECHA: 17/06/2023 -  17/06/2023  
+                 SIGLAS-LUGAR: POCABA2023  
+                 PAIS: ARG  
+                 ORGANIZA: FAM  
+                 FISCALIZA: FAM  
+          
+ 
+MAYORES-M 
+ 
+_______________________________________________________________________________________________________  
+     100 ELECTRONICO   : MAYORES -M 
+      FINAL_A   FECHA: 17/6/2023   HORA: 10.15   VIENTO: -4.0 MTS./SEG  
+ _______________________________________________________________________________________________________  
+ 01         ROBLES MANUEL                              /  /2004  UB      -       -       ARG    11.29       -  
+ 02         IGNACIO JOAQUIN FUSHIMI                    /  /2001  UBA     -       -       ARG    11.36       -  
+ 03         PEREYRA TOBIAS                             /  /2002  ISEF1   -       -       ARG    11.40       -  
+ 04         KOMAR FELIPE                               /  /1999  UTN     -       -       ARG    12.32       -  
+ 05         EZEQUIEL VERA                              /  /2000  UMET    -       -       ARG    12.33       -  
+ 99         BUSTAMANTE MATIAS                          /  /2003  UNDEF   -       -       ARG    99.99       DNS  
+ 99         CROCI SANTIAGO                             /  /1997  UNA     -       -       ARG    99.99       DNS  
+ 99         GAMBINI JOAQUIN                            /  /1999  UNDEF   -       -       ARG    99.99       DNS  
+ 99         MERLIN TINETT I                             /  /2000  UTN     -       -       ARG    99.99       -  
+ 99         MORANDI FELIPE                             /  /2003  ISEF1   -       -       ARG    99.99       DNS  
+ 99         PEDRO RODRIGUEZ MERLO                      /  /2001  UBA     -       -       ARG    99.99       DNF  
+ 
+ 
+ _______________________________________________________________________________________________________  
+     200 ELECTRONICO   : MAYORES -M 
+      FINAL_A   FECHA: 17/6/2023   HORA: 14.50   VIENTO: -1.8 MTS./SEG  
+ _______________________________________________________________________________________________________  
+ 01         ROBLES MANUEL                              /  /2004  UB      -       -       ARG    22.48       -  
+ 02         HARTE FELIPE                               /  /2002  ISEF1   -       -       ARG    22.80         
+ 03         JUAN CAMERA                                /  /1996  UBA     -       -       ARG    23.13       -  
+ 04         MATEO DURAN                                /  /2004  UTN     -       -       ARG    23.18       -  
+ 05         EZEQUIEL VERA                              /  /2000  UMET    -       -       ARG    24.27       -  
+ 06         TEIRA IÑAKI                                /  /2002  UBA     -       -       ARG    24.71         
+ 07         KOMAR FELIPE                               /  /1999  UTN     -       -       ARG    25.30       -  
+ 08         VILLAR FELIPE                              /  /2003  ISEF1   -       -       ARG    25.99       -  
+ 09         BUSTAMANTE MATIAS                          /  /2003  UNDEF   -       -       ARG    99.99       DNS  
+ 09         CROCI SANTIAGO                             /  /1997  UNA     -       -       ARG    99.99       DNS  
+ 09         PEDRO RODRIGUEZ MERLO                      /  /2001  UBA     -       -       ARG    99.99       DNS  
+ 09         PEREYRA TOBIAS                             /  /2002  ISEF1   -       -       ARG    99.99       DNS  
+ 
+ _________________________________________________________________________________________________ ______ 
+     400 ELECTRONICO   : MAYORES -M 
+      FINAL_A   FECHA: 17/6/2023   HORA: 11.20  
+ _______________________________________________________________________________________________________  
+ 01       6 ROBLES MANUEL                              /  /2004  UB      -       -       ARG    48.87       -  
+ 02       5 JUAN CAMERA                                /  /1996  UBA     -       -       ARG    49.49       -  
+ 03       4 MATEO DURAN                                /  /2004  UTN     -       -       ARG    49.55       -  
+ 04       2 HARTE FELIPE                               /  /2002  ISEF1   -       -       ARG    50.57       -  
+ 05       3 FEDERICO HILCHENBACH                       /  /1999  UBA      -       -       ARG    50.78       -  
+ 06       7 ALEJANDRO TOMAS VILLAFUERTE                /  /1996  IUPFA   -       -       ARG    87.55       -  
+  ____________________________________________________________________________________________________ ___ 
+     800 ELECTRONICO   : MAYORES -M 
+      FINAL_A   FECHA: 17/6/2023   HORA: 15.2  
+ _______________________________________________________________________________________________________  
+ 01       5 MARCELO PEREIRA                            /  /2003  I SEF1   -       -       ARG    2.14.35     -  
+ 02       6 SANCHEZ TRABOL MARCOS                      /  /2001  ISEF1   -       -       ARG    2.26.00     -  
+ 03       4 ALEJANDRO TOMAS VILLAFUERTE                /  /1996  IUPFA   -       -       ARG    3.27 .40     -  
+ 04       3 MELENDEZ DEVON                             /  /2001  UNA     -       -       ARG    9.99.99     DNS  
+ 
+ _______________________________________________________________________________________________________  
+     1500 ELECTRONICO   : MAYORES-M 
+      FINAL_A   FECHA: 17/6/2023   HORA: 10.50  
+ _______________________________________________________________________________________________________  
+ 01         MARCELO PEREIRA                            /  /2003  ISEF1   -       -       ARG    4.55.49     -  
+ 02         SANCHEZ TRABOL MARCOS                      /  /2001  ISEF1   -       -       ARG    5.02.67     -  
+ 03         ALEJANDRO TOMAS VILLAFUERTE                /  /1996  IUPFA   -       -       ARG    9.99.99     DNS  
+ 03         DIA Z FERNANDO                              /  /1993  UTN     -       -       ARG    9.99.99     DNS  
+ 03         MARCOS MORAN                               /  /2002  UTN     -       -       ARG    9.99.99     DNS  
+ 03         MELENDEZ DEVON                             /  /2001  UNA     -       -       ARG    9.99.99     DNS  
+ 
+ _______________________________________________________________________________________________________  
+     5000 ELECTRONICO   : MAYORES -M 
+      FINAL_A   FECHA: 17/6/2023   HORA: 16.00  
+ _______________________________________________________________________________________________________  
+ 01         POZA IGNACIO                               /  /2004  UTN     -       -       ARG    17.09.60    -  
+ 02         SEQUELI ANGELES MARCELO                    /  /1999  ISEF1   -       -       ARG    23.07.40    -  
+ 99         FIGUEROA GUILLERMO                         /  /1977  ISEF1   -       -       ARG    99.99.99    -  
+ 99         MARCOS MORAN                               /  /2002  UTN     -       -       ARG    99.99.99    DNS  
+ 99         TELOCKEN BRAHIANN                          /  /2002  UNDEF   -       -       ARG    99.99.99    -  
+ 
+ _______________________________________________________________________________________________________  
+     110 C/V ELECTRONICO 1.06 MTS  : MAYORES -M 
+      FINAL_A   FECHA: 17/6/2023   HORA: 09.45   VIENTO: -1.. MTS./SEG  
+ _______________________________________________________________________________________________________  
+ 01       5 OLMOS JOAQUIN                              /  /2001  ISEF1   -       -       ARG    15.31       -  
+ 02       4 MARTIRE SANTINO                            /  /2004  UBA     -       -       ARG    16.02       -  
+ 03       6 TESSARO ELISEO                             /  /1997  U NA     -       -       ARG    24.21       -  
+ 99       3 MORANDI FELIPE                             /  /2003  ISEF1   -       -       ARG    99.99       DNF  
+ 
+ ________________________________________________________________________________________________ _______ 
+     400 C/V ELECTRONICO 0.914 MTS  : MAYORES -M 
+      FINAL_A   FECHA: 17/6/2023  
+ _______________________________________________________________________________________________________  
+ 01       4 MARTIRE SANTINO                            /  /200 4  UBA     -       -       ARG    58.59       -  
+ 02       3 ABALSA YACO                                /  /2005  UBA     -       -       ARG    62.94       -  
+ 99       5 MARCELO PEREIRA                            /  /2003  ISEF1   -       -       ARG    99.99       DNS  
+ 99       6 TESSARO ELISEO                             /  /1997  UNA     -       -       ARG    99.99       DNS  
+ 
+ _______________________________________________________________________________________________________  
+     ALTO    : MAYORES -M 
+      FINAL_A   FECHA: 17/6/2023   HORA: 13.30  
+ _______________________________________________________________________________________________________  
+ 01         CARIEL DIAZ ALEJANDRO                      /  /2004  UTN     -       -       ARG    1.75        -  
+ 02         CAMILO DAVID IRALA GIMENEZ                 /  /1998  ISEF1   -       -       ARG    1.45        -  
+ 03         MORIN MATTIA                               /  /2001  ISEF1   -       -       ARG    1.35        -  
+ 04         IGNACIO EDUARDO AVILA                      /  /1997  UBA     -       -       ARG    1.15        -  
+ 
+ _______________________________________________________________________________________________________  
+     LARGO    : MAYORES -M 
+      FINAL_A   FECHA: 17/6/2023   HORA: 10.35  
+ _______________________________________________________________________________________________________  
+ 01         HARTE FELIPE                               /  /2002  ISEF1   -       -       ARG    6.10        2.6 -  
+ 02         IGNACIO JOAQUIN FUSHIMI                    /  /2001  UBA     -       -       ARG    5.75        3.1 -  
+ 03         VILLAR FELIPE                              /  /2003  ISEF1   -       -       ARG    5.00        1.9 -  
+ 04         TESSARO ELISEO                             /  /1997  UNA     -       -       ARG    4.25        1.8 -  
+ 99         PEDRO RODRIGUEZ MERLO                      /  /2001  UBA     -       -       ARG    0.00        DNS  
+ 
+ ________________________________________________________ _______________________________________________  
+     TRIPLE    : MAYORES -M 
+      FINAL_A   FECHA: 17/6/2023   HORA: 15.10  
+ _______________________________________________________________________________________________________  
+ 01         IGNACIO EDUARDO A VILA                      /  /1997  UBA     -       -       ARG    11.27       2.1 -  
+ 02         CAMILO DAVID IRALA GIMENEZ                 /  /1998  ISEF1   -       -       ARG    10.66       2.9 -  
+ 03         SANCHEZ TRABOL MARCOS                      /  /2001  ISEF1   -       -       ARG    09.36       1.6 -  
+ 
+  _______________________________________________________________________________________________________  
+     GARROCHA    : MAYORES -M 
+      FINAL_A   FECHA: 17/6/2023   HORA: 09.00  
+ _______________________________________________________________________________________________________  
+            ORUEZABALA FELIX                           /  /2004  UBA     -       -       ARG                -  
+            OLMOS JOAQUIN                              /  /2001  ISEF1   -       -       ARG                -  
+ 
+ _______________________________________________________________________________________________________  
+     DISCO  2.000 KGS  : MAYORES -M 
+      FINAL_A   FECHA: 17/6/2023   HORA: 13. 30 
+ _______________________________________________________________________________________________________  
+ 01         VILLAR FELIPE                              /  /2003  ISEF1   -       -       ARG    21.48       -  
+ 
+  2.000 KGS  
+ 
+ ______________________ _________________________________________________________________________________  
+     JABALINA  0.800 KGS  : MAYORES -M 
+      FINAL_A   FECHA: 17/6/2023   HORA: 14.50  
+ ________________________________________________________________________________________ _______________  
+ 01         OLMOS JOAQUIN                              /  /2001  ISEF1   -       -       ARG    44.29       -  
+ 02         CAMILO DAVID IRALA GIMENEZ                 /  /1998  ISEF1   -       -       ARG    35.06       -  
+ 03         MERLIN  TINETTI                             /  /2000  UTN     -       -       ARG    00.00       DNS  
+ 
+_______________________________________________________________________________________________________  
+     POSTA 4X100 ELECTRONICO   : MAYORES -M 
+      FINAL_A   FECHA: 17/6/2023   HORA: 12.00  
+ _______________________________________________________________________________________________________  
+ 01         HARTE FELIPE   /  /2002  
+.           PEREYRA TOBIAS   /  /2002  
+.           OLMOS JOAQUIN   /  /2001  
+.           MARCELO PEREIRA   /  /2003  
+.            //  
+.            //  
+.            //  
+.            //  
+.                                                . ISEF1   -       -       ARG    43.26         
+ 02         JU AN CAMERA   /  /1996  
+.           FEDERICO HILCHENBACH   /  /1999  
+.           IGNACIO JOAQUIN FUSHIMI   /  /2001  
+.           MARTIRE SANTINO   /  /2004  
+.            //  
+.            //  
+.            //  
+.            //  
+.                                                . UBA     -       -       ARG    43.64         
+ 
+ _______________________________________________________________________________________________________  
+     POSTA 4X400 ELECTRONICO   : MAYORES -M 
+      FINAL_A   FECHA: 17/6/2023   HORA: 16. 40 
+ _______________________________________________________________________________________________________  
+ 01         TEIRA IÑAKI   /  /2002  
+.           FEDERICO HILCHENBACH   /  /1999  
+.           BASSOLI JULIO   /  /1999  
+.           ABALSA YACO   /  /2005  
+.            //  
+.            //  
+.            //  
+.            //  
+.                                                . UBA     -       -       ARG    5.10.79       
+ 
+ 
+ 
+ 
+ 
+ 
+ MAYORES-F 
+ _______________________________________________________________________________________________________  
+     100 ELECTRONICO   : MAYORES -F 
+      FINAL_A   FECHA: 17/6/2023   HORA: 10.00   VIENTO: -3.7 MTS./SEG  
+ ____________________________________________ ___________________________________________________________  
+ 01       3 ALTAMIRANO CAMILA                          /  /2004  ISEF1   -       -       ARG    14.03       -  
+ 02       5 SOSA LUZ BELEN                             /  /2003  ISEF1   -       -       ARG    14.24       -  
+ 03       6 DAISI JEANETTE CORVALÁN VÁZQUEZ            /  /1998  IUPFA   -       -       ARG    16.30       -  
+ 04       7 SOMARUGA ANDREA                            /  /1994  UBA     -       -       ARG    16.54       -  
+ 99       2 NAPOLITANO VALENTINA                       /  /2004  UBA     -       -       ARG    99.99       DNS  
+ 99       4 BELEN FRITZSCHE                            /  /1997  UBA     -       -       ARG    99.99       DNS  
+ 
+ ____________________________________ ___________________________________________________________________  
+     200 ELECTRONICO   : MAYORES -F 
+      FINAL_A   FECHA: 17/6/2023   HORA: 14.30   VIENTO: -1.7 MTS./SEG  
+ _________________________________________________________________________________ ______________________  
+ 01       6 ALTAMIRANO CAMILA                          /  /2004  ISEF1   -       -       ARG    29.30       -  
+ 02       7 SOMARUGA ANDREA                            /  /1994  UBA     -       -       ARG    33.80       -  
+ 03       1  DAISI JEANETTE CORVALÁN VÁZQUEZ            /  /1998  IUPFA   -       -       ARG    39.14       -  
+ 99       2 CAMILA MATURANO                            /  /2002  ISEF1   -       -       ARG    99.99       DNS  
+ 99       3 NAPOLITANO VALENTINA                       /  /2004  UBA     -       -       ARG    99.99       DNS  
+ 99       4 ROFFO CAMILA                               /  /2000  UTN     -       -       ARG    99.99       DNS  
+ 99       5 BELEN FRITZSCHE                            /  /1997  UBA     -       -       ARG    99.99       DNS  
+ 
+ _______________________________________________________________________________________________________  
+     400 ELECTRONICO   : MAYORES -F 
+      FINAL_A   FECHA: 17/6/2023   HORA: 11.05  
+ _______________________________________________________________________________________________________  
+ 01       5 BILIBIO LESLIE                             /  /2003  UBA     -       -       ARG    63.30       -  
+ 02       6 ALTAMIRANO CAMILA                          /  /2004  ISEF1   -       -       ARG    67.93       -  
+ 03       1 VALERIA GONZALEZ                           /  /2002  UNA     -       -       ARG    70.53       -  
+ 04       7 DAISI JEANETTE CORVALÁN VÁZQUEZ            /  /1998  IUPFA   -       -       ARG    140.10       -  
+ 99       2 ALDANA MAGALI MANSILLA                     /  /2004  ISEF1   -       -       ARG    99.99       DNS  
+ 99       3 ZAPPA LARA                                 /  /2004  UBA     -       -       ARG    99.99       DNS  
+ 99       4 ROFFO CAMILA                               /  /2000  UTN     -       -       ARG    99.99       DNS  
+ 
+  _______________________________________________________________________________________________________  
+     800 ELEC TRONICO   : MAYORES -F 
+      FINAL_A   FECHA: 17/6/2023   HORA: 15.10  
+ _______________________________________________________________________________________________________  
+ 01       4 ZAPPA LARA                                 /  /2004  UBA     -       -       ARG    2.47.55     -  
+ 02       2 LUCIANA SCOPPA                             /  /2002  ISEF1   -       -       ARG    2.55.70     -  
+ 03       3 VALERIA GONZALEZ                           /  /2002  UNA     -       -       ARG    9.99.99     DNS  
+ 03       5 BELAUSTEGUI CANDELA                        /  /2001  UBA     -       -       ARG    9.99.99     DNS  
+ 03       6 ROLIN PAULA                                /  /2003  UNDEF   -       -       ARG    9.99.99     DNS  
+ 
+ _______________________________ ________________________________________________________________________  
+     1500 ELECTRONICO   : MAYORES -F 
+      FINAL_A   FECHA: 17/6/2023   HORA: 10.35  
+ ___________________________________________________________________________________________________ ____ 
+ 01         LUCIANA SCOPPA                             /  /2002  ISEF1   -       -       ARG    5.48.74     -  
+ 02         MARINA JUNCO                               /  /1996  UMET    -       -       ARG    7.30.52     DNS  
+ 03         MARIA PAZ BOULLOSA ROMERO                  /  /2003  TELLA   -       -       ARG    9.99.99     -  
+ 
+ _______________________________________________________________________________________________________  
+     5000 ELECTRONICO   : MAYORES -F 
+      FINAL_A   FECHA: 17/6/2023   HORA: 15.35  
+ _______________________________________________________________________________________________________  
+ 01         MARIA PAZ BOULLOSA ROMERO                  /  /2003  TELLA   -       -       ARG    21.14.92    -  
+ 02         LUCIANA SCOPPA                             /  /2002  ISEF1   -       -       ARG    23.51.02    -  
+ 
+ _______________________________________________________________________________________________________  
+     100 C/V ELECTRONICO 0.84 MTS  : MAYORES -F 
+      FINAL_A   FECHA: 17/6/2023   HORA: 09.30   VIENTO: -1.4 MTS./SEG  
+ _______________________________________________________________________________________________________  
+ 01       4 BELAUSTEGUI CANDELA                        /  /2001  UBA      -       -       ARG    16.14       -  
+ 99       5 JOSEFINA STALGIS                           /  /2003  UBA     -       -       ARG    99.99       DNS  
+ 
+ __________________________________________________________________________________________________ _____ 
+     400 C/V ELECTRONICO 0.762 MTS  : MAYORES -F 
+      FINAL_A   FECHA: 17/6/2023   HORA: 14.00  
+ _______________________________________________________________________________________________________  
+ 01       4 BELAUSTEGUI CANDELA                        /  /2001  UBA     -       -       ARG    68.04       -  
+ 02       3 BILIBIO LESLIE                             /  /2003  UBA     -       -       ARG    72.30       -  
+ 03       5 VALERIA GONZALEZ                           /  /2002  UNA     -       -       ARG    81.59       -   
+ _______________________________________________________________________________________________________  
+     ALTO    : MAYORES -F 
+      FINAL_A   FECHA: 17/6/2023   HORA: 13.30  
+ _______________________________________________________________________________________________________  
+ 01         BENITES ASTOUL LARA                        /  /2003  UTN     -       -       ARG    1.55        -  
+ 99         PEILA LUCIA                                /  /2004  ISEF1   -       -       ARG    0.00        -  
+ 99         PEDERSEN CAROLINA                          /  /1998  UBA     -       -       ARG    0.00        -  
+ 
+ ________________________________________________________________________ _______________________________  
+     LARGO    : MAYORES -F 
+      FINAL_A   FECHA: 17/6/2023   HORA: 10.30  
+ _______________________________________________________________________________________________________  
+ 01         BENITES ASTOUL LARA                        /  /2003  UTN     -       -       ARG    5.14        2.6 -  
+ 02         CAROLA BRUNO                               /  /2000  UBA     -       -       ARG    5.10        2.4 -  
+ 03         SOSA LUZ BELEN                             /  /2003  ISEF1   -       -       ARG    4.83        2.7 -  
+ 04         STIEGLITZ MICAELA                          /  /2002  UTN     -       -       ARG    4.73        3.7 -  
+ 05         CAMILA MATURANO                            /  /2002  ISEF1   -       -       ARG    4. 35        4.2 -  
+ 06         MARINA JUNCO                               /  /1996  UMET    -       -       ARG    3.57        2.6 -  
+ 07         DAISI JEANETTE CORVALÁN VÁZQUEZ            /  /1998  IUPFA   -       -       ARG    3.50        2.3 -  
+ 99         PEDERSEN CAROLINA                          /  /1998  UBA     -       -       ARG    0.00        DNS  
+ 
+ _______________________________________________________________________________________________________  
+     TRIPLE    : MAYORES -F 
+      FINAL_A   FEC HA: 17/6/2023   HORA: 15.10  
+ _______________________________________________________________________________________________________  
+ 01         BENITES ASTOUL LARA                        /  /2003  UTN     -       -       ARG    10.21       3.1 -  
+ 02         STIEGLITZ MICAELA                          /  /2002  UTN     -       -       ARG    09.92       5.0 -  
+ 03         CAMILA MATURANO                            /  /2002  ISEF1   -       -       ARG    09.41       2.2 -  
+ 
+ ________________________________ _______________________________________________________________________  
+     GARROCHA    : MAYORES -F 
+      FINAL_A   FECHA: 17/6/2023   HORA: 09.00  
+ _______________________________________________________________________________________________________  
+            SCARPONI CARPÑOMA                          /  /2005  UBA     -       -       ARG                -  
+            CAROLA BRUNO                               /  /2000  UBA     -       -       ARG                -  
+ 
+ ________________________________ _______________________________________________________________________  
+     BALA  4.000 KGS  : MAYORES -F 
+      FINAL_A   FECHA: 17/6/2023   HORA: 10.35  
+ ______________________________________________________________________________________________________ _ 
+ 01         PETRACCA CHIARA                            /  /2004  ISEF1   -       -       ARG    09.30       -  
+ 02         VALENZUELA GUILLERMINA                     /  /2004  UBA     -       -       ARG    08.86       -  
+ 
+ 
+ _________________ ______________________________________________________________________________________  
+     DISCO  1.000 KGS  : MAYORES -F 
+      FINAL_A   FECHA: 17/6/2023   HORA: 13.30  
+ ______________________________________________________________________________________ _________________  
+ 01         VALENZUELA GUILLERMINA                     /  /2004  UBA     -       -       ARG    29.42       -  
+ 02         PETRACCA CHIARA                            /  /2004  ISEF1   -       -       ARG    24.49       -  
+ 
+ 
+ _______________________________________________________________________________________________________  
+     JABALINA  0.600 KGS  : MAYORES -F 
+      FINAL_A   FECHA: 17/6/2023   HORA: 14.50  
+ ___________________________________________________________________ ____________________________________  
+            ALDANA MAGALI MANSILLA                     /  /2004  ISEF1   -       -       ARG    00.00       DNS  
+            PEDERSEN CAROLINA                          /  /1998  UBA     -       -       ARG    06.61         
+ 
+   
+ _______________________________________________________________________________________________________  
+     MARTILLO  4.000 KGS  :  MAYORES-F 
+      FINAL_A   FECHA: 17/6/2023   HORA: 09.00  
+ _______________________________________________________________________________________________________  
+ 01         VALENZUELA GUILLERMINA                     /  /2004  UBA     -       -       ARG    14.62       -  
+ 
+ 
+ _______________________________________________________________________________________________________  
+     POSTA 4X100 ELECTRONICO   : MAYORES -F 
+      FINAL_A   FECHA: 17/6/2023   HORA: 11.45  
+ ____________________________ ___________________________________________________________________________  
+ 01         ALTAMIRANO CAMILA   /  /2004  
+.           CAMILA MATURANO   /  /2002  
+.           SOSA LUZ BELEN   /  /2003  
+.           LUCIANA SCOPPA   /  /2002  .            //  
+.            //  
+.            //  
+.            //  
+.                                                . ISEF1   -       -       ARG    60.20         
+ 02         VALENZUELA GUILLERMINA   /  /2004  
+.           PEDERSEN CAROLINA   /  /1998  
+.           SOMARUGA ANDREA   /  /1994  
+.           BILIBIO LESLIE   /  /2003  
+.            //  
+.            //  
+.            //  
+.            //  
+.                                                . UBA     -       -       ARG    63.77         
+ 
+ ___________ ____________________________________________________________________________________________  
+     POSTA 4X400 ELECTRONICO   : MAYORES -F 
+      FINAL_A   FECHA: 17/6/2023   HORA: 16.25  
+ ________________________________________________________________________ _______________________________  
+ 01       4 BELAUSTEGUI CANDELA   /  /2001  
+.           NAPOLITANO VALENTINA   /  /2004  
+.           ZAPPA LARA   /  /2004  
+.           BILIBIO LESLIE   /  /2003  
+.            //  
+.            //  
+.            //  
+.            //  
+.                                                . UBA     -       -       ARG    5.10.57       
+ 
+ 

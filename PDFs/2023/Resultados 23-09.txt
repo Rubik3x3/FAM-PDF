@@ -1,0 +1,693 @@
+ 
+  
+ 
+ 
+ 
+ 
+RESULTADOS  TORNEO PRIMAVERA PORTEÑA  
+ 
+                FECHA: 23/09/2023 -  23/09/2023  
+                SIGLAS-LUGAR: FAMCEN230923  
+                PAIS: ARG  
+                ORGANIZA: ARG  
+                FISCALIZA: ARG  
+ 
+          
+MAYORES-M 
+ 
+_______________________________________________________________________________________________________  
+     200 ELECTRONICO   : MAYORES -M 
+      FINAL_A   FECHA: 23/9/2023   HORA: 14.50   VIENTO: 0 MTS./SEG  
+ _______________________________________________________________________________________________________  
+ 01         DIAMANTE BAUTISTA                        28/2 /2003  SAVB    -       FAM     ARG    21.51       -1.6  
+ 02  6502   MARTIN SAAVEDRA                            /  /2004  MLZ     -       FAM     ARG    22.66       -1.6  
+ 02  6577   DELLACASA FACUNDO                        16/4 /1998  MSI     -       FAM     ARG    22.66       -1.6  
+ 03         MATEO DURAN                              - /- /2004  CHAMA   -       FAM     ARG    22.82       -1.6  
+ 04         PEREYRA TOBIAS                           14/11/2002  GARIN   -       FAM     ARG    22.84       -1.6  
+ 05         MARTIN CAPPELLETTI                         /  /1993  G E      -       FAM     ARG    23.05       -1.4  
+ 06         TOMAS MIRON                              - /- /2005  CHAMA   -       FAM     ARG    23.10       -1.4  
+ 07         FRANCISCO FERRECCIO                        /  /2005  QUIRO   -       FAM     ARG    23.19       -1.4  
+ 08         THOMAS AGUSTIN LERESCHE                    /  /2005  MLZ     -       FAM     ARG    23.32       3.0  
+ 09         MIGUEL IMBROSCIANO                         /  /2005  QUIRO   -       FAM     ARG    23.39       -1.6  
+ 10         TORREZ KEVIN HUGO                        1 /8 /1993  MLZ     -       FAM     ARG    23.42       -1.6  
+ 11         MATEO SFEIR                                /  /2005  CADAF   -       FAM     ARG    23.50       3.0  
+ 12         URIARTE SCACCO LEANDRO                   30/6 /1994  MSI     -       FAM     ARG    23.65       -1.6  
+ 13         CHAPARRO RODRIGO                         19/12/2000  LIBRE   -       ----    ARG    23.67       -1.4  
+ 14         CUEVAS BRIZUELA MANUEL ALEJANDRO         16/8 /1997  A AMT    -       FAM     ARG    23.80       3.0  
+ 15         VILLAREAL BRAIAN NAHUEL                  18/12/1991  MLZ     -       FAM     ARG    23.88       -1.4  
+ 16         ALEJANDRO FORTUNATO                      - /- /2002  LIBRE   -       ----    ARG    23.89       0.1  
+ 17         IGNACIO GOMEZ KORUÃ‘AK                     /  /2008  MSM     -       FAM     ARG    23.96       3.0  
+ 18         SANTIAGO CATRIEL GIMENEZ JOSE              /  /2004  CAVS    -       FAM     ARG    24.04       -1.0  
+ 19         ELIAS TOMAS GUERRA                       - /- /2002  MLAM    -       FAM     ARG    24.06       -1.4  
+ 20         AGUSTÃ N ASCUNE                            /  /2006  CADAF   -       FAM     ARG    24.07       0.1  
+ 21         KAPRIEL CORTEZ GI ULIANI                  - /- /2008  CHAMA   -       FAM     ARG    24.11       -1.4  
+ 22         EDGARD CORONEL                             /  /2006  MUQUI   -       FAM     ARG    24.17       3.0  
+ 23         BRUNO CARRASCO MARTINEZ                    /  /2006  CHAMA   -       FAM     ARG    24.18       3.0  
+ 24         GIANLUCA ALEJANDRO CHUMBITA                /  /2008  MMA     -       FAM     ARG    24.37       0.1  
+ 24         JOSHUA SANCHEZ                             /  /2008  ET      -       FAM     ARG    24.37       3.0  
+ 25         JOAQUIN CANTOS                             /  /1992  SGLZ    -       FAM     ARG    24.44       0.1  
+ 26         LUCAS AYALA                                /  /2004  MAB     -       FAM     ARG    24.46       -1.4  
+ 27         FELIPE FOLATELLI                           /  /2009  MSI     -       FAM     ARG    24.53       3.0  
+ 28         ROBERTO AZARIAS SANTO                      /  /2006  MSM     -       FAM     ARG    24.98       0.1  
+ 29         NICOLAS MILMAN                           - /- /2007  CHAMA   -       FAM     ARG    25.04       0.1  
+ 30         DE ANGELIS FABIAN ANDRES                 25/2 /1975  CADAF   -       FAM     ARG    25.07       -1.6  
+ 31         LUKAS NICOLAS SANCUEZ OCAMPO               /  /2005   MSM     -       FAM     ARG    25.09       -1.0  
+ 32         SERGIO CONTRERA                          - /- /1982  FCMAX   -       FAM     ARG    25.14       -1.6  
+ 33         AGUSTIN VANZELLI                           /  /2008  CNBA    -       FAM     AR G    25.18       -1.0  
+ 34         ALEXIS VILLARRUBIA                       - /- /2000  AAMT    -       FAM     ARG    25.35       0.1  
+ 35         DAMIANO VACANTE                            /  /2009  FCMAX   -       FAM     ARG    25.58       -1.0  
+ 36         CARLOS RAMON IBANEZ                      11/11/1996  SGLZ    -       FAM     ARG    25.74       -1.0  
+ 37         ALEJANDRO LEONARDO NITTI                   /  /1965  AAPCH   -       FAM     ARG    26.12       -1.6  
+ 38         FABRIZIO EZEQUIEL BROL LO                   /  /2009  ET      -       FAM     ARG    26.16       -0.1  
+ 39         MARIN RIVERO FACUNDO                     25/7 /1969  CHAMA   -       FAM     ARG    26.39       -1.6  
+ 40         MIRKO VALENTIN NAZABAL                     /  /200 9  MMA     -       FAM     ARG    27.19       -1.0  
+ 41         LEON SANTOS                                /  /2010  CHAMA   -       FAM     ARG    27.28       -1.0   42         DYLAN NAHUEL SANGUINET TOGNA               /  /2007  ET      -       FAM     A RG    27.45       -0.1  
+ 43         THIAGO ALVAREZ                             /  /2005  GARIN   -       FAM     ARG    27.48       -0.1  
+ 44         SANTIAGO LEON MATTER                     - /- /2009  LÃ‘     -       FAM     ARG    27.79       -1.6  
+ 45         FELIPE ANGEL SERFATI                       /  /2010  AAPCH   -       FAM     ARG    28.16       -0.1  
+ 46         GASTON LINDOLFO                            /  /2008  ET      -       FAM     ARG    28.37       -0.1  
+ 46         LUCIO CAVANAGH                             /  /2008  CNBA    -       FAM     ARG    28.37       -0.1  
+ 47         JOAQUIN ALEXIS ESPINOSA ARIZAGA            /  /2008  MMA     -       FAM     ARG    28.96       -1.0  
+ 48         CIRO KATCHADJIAN                            /  /2008  CNBA    -       FAM     ARG    30.38       -1.6  
+ 49         FELIPE MONTEAGUDO                          /  /2010  AAPCH   -       FAM     ARG    32.42       -0.1  
+ 50         JOAQUIN STOLA                              /   /2009  CNBA    -       FAM     ARG    34.63       -1.6  
+ 51         MANUEL TEJADA                              /  /2009  CNBA    -       FAM     ARG    99.99       DNS  
+ 51         MARCOS ENCINA                              /  /2006  MSM     -       FAM     ARG    99.99       0.1  
+ 
+ _______________________________________________________________________________________________________  
+     800 ELECTRONICO   : MAYORES -M 
+      FINAL_A   FECHA: 23/9/2023   HORA: 10.55  
+ _______________________________________ ________________________________________________________________  
+ 01         MENDIVIL ESTANISLAO                      20/10/2000  QUIRO   -       FAM     ARG    1.51.31     -  
+ 02         ALFONSO ECHEZARRETA                      - /- /2001  GE      -       FAM     ARG    1.54.45     -  
+ 03         GOMEZ VICENTE                            8 /6 /2002  GARIN   -       FAM     ARG    1.55.87     -  
+ 04         FERNANDEZ AGUSTIN JAVIER                 26/10/2001  FTTF    -       FAM     ARG    1.56.74     -  
+ 05         TOMAS SALVAT                               /  /2004  QUIRO   -       FAM     ARG    1.57.63     -  
+ 06         BRITEZ ALEJO NAZARENO                    12/9 /2002  FCMAX   -       FAM     ARG    1.59.25     -  
+ 07         OLIVERA ELIAS                            22/10/1988  LIBRE   -       ----    ARG    1.59.76     -  
+ 08         ALEJANDRO DAMIAN IBAÃ±EZ                   /  /1999  LÃ‘     -       FAM     ARG    2.01.51     -  
+ 09         CRISTIAN ZACARIAS                        - /- /2000  EB      -       FAM     ARG    2.02.00     -  
+ 10         MIGUELES LAUTARO NAHUEL                  23/7 /2004  AAMT    -       FAM     ARG    2.03.07     -  
+ 11         FRANCO SIMON                             - /- /2004  ET      -       FAM     ARG    2.04.45     -  
+ 12         ROBERTO ADRIÃ¡N ESPINOZA                 - /- /1980  FCMAX   -       FAM     ARG    2.04.61     -  
+ 13         MARTINEZ ELIAS                           16/9 /1994  AAMT    -       FAM     ARG    2.05.88     -  
+ 14         ALAN CACERES                             - /- /2002  EMA     -       FAM     ARG    2.05.93     -  
+ 15         MAXIMILIANO WAINBERG ROGADO                /  /2006  AAPCH   -       FAM     ARG    2.07.19     -  
+ 16         LAUTARO NICOLAS CORZO                    - /- /1997  MM      -       FAM     ARG    2.10.53     -  
+ 17         MATIAS CALIZAYA                            /  /2006  MAB     -       FAM     ARG    2.10.60     -  
+ 18         EZEQUIEL MENDEZ                            /  /2004  LÃ‘     -       FAM     ARG    2.12.58     -  
+ 19         HARRIAGUE GONZALO                        5 /5 /1988  FTTF    -       FAM     ARG    2.12.65     -  
+ 20         ALAN LUCIANO BAREIRO                       /  /1993  LIB RE   -       ----    ARG    2.13.08     -  
+ 21         CACERES PABLO DAVID                      11/9 /1995  EMA     -       FAM     ARG    2.13.29     -  
+ 22         ALEJANDRO LUIS OJEDA                       /  /2003  SGLZ    -       FAM     ARG    2.14.2 7     -  
+ 23         NAHUEL TARKOWSKI                         - /- /1989  AAMT    -       FAM     ARG    2.15.48     -  
+ 24         THIAGO ANTONIO MINUTELLA LORIDO            /  /2004  CHAMA   -       FAM     ARG    2.15.56     -  
+ 25         LUCAS WEHBE                                /  /1994  GAME    -       FAM     ARG    2.15.72     -  
+ 26         FEDERICO JAVIER FERREYRA                 - /- /1999  FCMAX   -       FAM     ARG    2.18.00     -  
+ 27         VÃ CTOR SANTOS                              /  /1983  LIBRE   -       ----    ARG    2.18.21     -  
+ 28         MARCOS ISRAEL ALFARO                       /  /1995  CAVS    -       FAM     ARG    2.21.55     -  
+ 29         RAMIRO LAUTARO SOTO                        /  /2006  ET      -       FAM     ARG    2.22.28     -  
+ 30         ALEX MANUEL ORTIZ LEON                     /  /1995  CAL     -       FAM     ARG    2.22.37     -  
+ 31         NAHUEL IGNACIO MUÃ±OZ                      /  /2002  MM      -       FAM     ARG    2.22.64     -  
+ 32         TOMA S AGUSTIN BLOECK                       /  /2006  ET      -       FAM     ARG    2.22.95     -  
+ 33         LEONARDO DANIEL AGUSTÃ N GOMEZ              /  /1985  GAME    -       FAM     ARG    2.26.08     -  
+ 34         ALEJANDRO MARTIN LOBATO                    /  /1988  FCMAX   -       FAM     ARG    2.26.31     -  
+ 35         CARLOS ADRIÃ¡N LUZTMAN                     /  /1978  AAPCH   -       FAM     ARG    2.26.63     -  
+ 36         MATIAS DANTE MARTINEZ                      /  /1994  AAPCH   -       FAM     ARG    2.27.73     -  
+ 37         MAXIMILIANO RODRIGUEZ                      /  /1987  MMA     -       FAM     ARG    2.28.81     -  
+ 38         MAURICIO MORINIGO                          /  /2007  ET      -       FAM     ARG    2.32.19     -  
+ 39         FABIO ARIEL LOPEZ                        - /- /1984  LÃ‘     -       FAM     ARG    2.33.33     -  
+ 40         JUAN CARLOS GARCÃ A ALLENDE                /  /1970  AAPCH   -       FAM     ARG    2.34.04     -  
+ 41         JUAN IGNACIO TORRES                        /  /2007  LÃ‘     -       FAM     ARG    2.36.50     -  
+ 42         ALFREDO OSVALDO ARANIBAR CARRIZO           /  /2004  LÃ‘     -       FAM     ARG    2.37.41     -  
+ 43         CARLOS CATALANO                            /  /1965  -       -       -       ARG    2.38.83     -  
+ 44         EDUARDO ANDRES SANTOMIL                  - /- /1948  LÃ‘     -       FAM     ARG    2.56.23     -  
+ 99         KOSTIUK LEANDRO                          23/8 /1978  FCMAX   -       FAM     ARG    9.99.99     DNS  
+ 99         MATIAS DIEGO LEONES                        /  /1995  -       -       FSA     ARG    9.99.99     DNS  
+ 99         RODRIGO QUIN                               /  /1995  LIBRE   -       ----    ARG    9.99.99     DNS  
+ 
+ _______________________________________________________________________________________________________  
+     3000 ELECTRONICO   : MAYORES -M 
+      FINAL_A   FECHA: 23/9/202 3   HORA: 16.10  
+ _______________________________________________________________________________________________________  
+ 01         MIGUEL GARRO                               /  /1996  AER     -       FAM     ARG    08.31.36    -  
+ 02         LEONEL ANTON IO JARRIN                    - /- /1990  LÃ‘     -       FAM     ARG    08.46.18    -  
+ 03         FERNANDO MARTIN CHAVES                     /  /1998  FTTF    -       FAM     ARG    08.46.69    -  
+ 04         JUAN MANUEL BASILE                       - /- /1996  LÃ‘     -       FAM     ARG    08.47.46    -  
+ 05         FRANCO MIRANDA GABRIEL                   24/2 /1995  FCMAX   -       FAM     ARG    08.48.88    -  
+ 06         KUCHER HERNAN                            24/4 /1993  LÃ‘     -       FAM     ARG     08.53.35    -  
+ 07         FARIAS GABRIEL ANDRES                    25/9 /1988  -       -       FABPA   ARG    08.58.50    -   08         BRIAN IVAN DANIEL ARNEDO                   /  /1997  MME     -       FAM     ARG    09.00.21    -  
+ 09         VEL ASQUEZ THIAGO ROMAN                   13/11/2003  FCMAX   -       FAM     ARG    09.01.82    -  
+ 10         BENJAMIN AGUILAR                         6 /11/2002  MMA     -       FAM     ARG    09.02.33    -  
+ 11         LUIS RIVADENEIRA                         - /- /1996  MME     -       FAM     ARG    09.04.01    -  
+ 12         NICOLAS BLASCO                           - /- /1983  MFV     -       FAM     ARG    09.04.55    -  
+ 13         VELAZQUEZ CONRADO JONAS                  4 /6 /1991  MME     -       FAM     ARG    09.05.01    -  
+ 14         SOSA PABLO EZEQUIEL                      3 /1 /1986  -       -       FABPA   ARG    09.09.84    -  
+ 15         RAMIREZ ALEXIS                           30/6 /1996  LÃ‘     -       FAM     ARG    09.11.36    -  
+ 16         EZEQUIEL GELOS                             /  /1999  -       -       FACH    ARG    09.16.60    -  
+ 17         MENDEZ JOSE DANIEL                       26/4 /1983  LÃ‘     -       FAM     ARG    09.25.66    -  
+ 18         MARTINEZ MATIAS                          13/5 /1975  EMA     -       FAM     ARG    09.30.54    -  
+ 19         HERNAN LEONARDO MORALES                    /  /1992  CAL     -       FAM     ARG    09.30.88    -  
+ 20         WALTER GERMAN PONCE                        /  /1993  MFV     -       FAM     ARG    09.35.94    -  
+ 21         GABRIEL CASTAÃ±EDA                       - /- /1985  FCMAX   -       FAM     ARG    09.36.28    -  
+ 22         LUCAS JOAQUIN WEYERSBE RG AGRIMBAU          /  /2004  LÃ‘     -       FAM     ARG    09.36.69    -  
+ 23         BRAIAN CANSELO                           - /- /2006  LÃ‘     -       FAM     ARG    09.38.54    -  
+ 24         LEANDRO DINOFRIO                           /  /1979  LIB RE   -       ----    ARG    09.39.38    -  
+ 25         ALDECO JOSE                              7 /2 /1980  FTTF    -       FAM     ARG    09.39.60    -  
+ 26         PABLO DANIEL GONZALEZ                      /  /1987  MFV     -       FAM     ARG    09.39. 79    -  
+ 27         PORTILLO JULIO                           23/10/1986  LÃ‘     -       FAM     ARG    09.42.23    -  
+ 28         NICOLAS EZEQUIEL CACCIABUE               - /- /2002  FCMAX   -       FAM     ARG    09.42.81    -  
+ 29         JONATAN OLMOS                               /  /1988  FCMAX   -       FAM     ARG    09.44.64    -  
+ 30         ALEJANDRO ACUÃ±A GARCIA                  - /- /2000  MME     -       FAM     ARG    09.45.05    -  
+ 31         GONZALO NICOLÃ¡S SILVA                     /  / 1996  MFV     -       FAM     ARG    09.48.43    -  
+ 32         BRAIAN EZEQUIEL ASTORGA                    /  /2007  LÃ‘     -       FAM     ARG    09.49.35    -  
+ 33         ROMAN LAUTARO DIAZ                         /  /2007  MMA     -       FAM     ARG    09.50.38    -  
+ 34         MAXIMILIANO MAIDANA                        /  /1986  LIBRE   -       ----    ARG    09.50.55    -  
+ 35         PABLO ARIEL PIAZZA                         /  /1981  AAA     -       FABPA   ARG    09.51.64    -  
+ 36         RICA RDO ANDRES LOZANO ROA                  /  /1997  FCMAX   -       FAM     ARG    09.54.72    -  
+ 37         SALINAS MAXIMILIANO                      24/7 /1976  LTFAM   -       FAM     ARG    09.57.16    -  
+ 38         INTI NAHUEL JUAREZ                       - /- /1996  LÃ‘     -       FAM     ARG    09.59.67    -  
+ 39         CORREA DANIEL                            10/4 /1981  LÃ‘     -       FAM     ARG    10.00.17    -  
+ 40         MIQUEAS ELEAZAR BOTELLO MARTINEZ           /  /2000  LÃ‘     -       FAM     ARG    10.01.09    -  
+ 41         FACUNDO AVELIKIAN                          /  /1989  AAY     -       FAM     ARG    10.01.32    -  
+ 42         THIAGO EZEQUIEL MINGRONE                   /  /2005  AAPS    -       FAM     ARG    10.02.97    -  
+ 43         PAUL GHIDOSSI                            - /- /1966  LÃ‘     -       FAM     ARG    10.03.39    -  
+ 44         JUAN FRANCISCO AYALA                     - /- /1986  LÃ‘     -       FAM     ARG    10.03.68    -  
+ 45         BRAIAN NICOLÃ¡S GONZÃ¡LEZ FLO RES         - /- /1991  AER     -       FAM     ARG    10.03.97    -  
+ 46         MARTIN LORENTI                             /  /1979  FCMAX   -       FAM     ARG    10.05.01    -  
+ 47         FACUNDO MIGUEL POMPONIO                    /  /1986  EMA -B   -       FAM     ARG    10.05.87    -  
+ 48         SERGIO EDUARDO OLAZARRI                    /  /1968  FCMAX   -       FAM     ARG    10.09.64    -  
+ 49         NICOLAS MEDINA                             /  /1987  FTTF    -       FAM     ARG    10.11.78    -  
+ 50         ENRIQUE IGNACIO VIDAL                    - /- /1987  LÃ‘     -       FAM     ARG    10.13.71    -  
+ 51         LUCAS JAVIER BALDERRAM A                  - /- /1992  LÃ‘     -       FAM     ARG    10.15.52    -  
+ 52         CANDEL MATIAS                            29/12/1982  EB      -       FAM     ARG    10.17.12    -  
+ 53         JUAN CARLOS GONZALEZ                       /  /1984  NAA      -       FAM     ARG    10.17.20    -  
+ 54         PUGLIESE PABLO                           5 /1 /1991  EB      -       FAM     ARG    10.20.98    -  
+ 55         WILLIAM HERNAN VALLEJOS                    /  /1992  MFV     -       FAM     ARG    10.22. 01    -  
+ 56         MARIANO NAHUEL HOLGADO                     /  /1984  FCMAX   -       FAM     ARG    10.25.38    -  
+ 57         ADRIAN ORLANDO VILLALBA                  - /- /1975  MFV     -       FAM     ARG    10.33.45      
+ 58         LUIS LEONARDO BENÃTEZ                      /  /1970  NAA     -       FAM     ARG    10.33.77    -  
+ 59         ANDRÃ©S ENRIQUE WÃ¼NSCH                  - /- /1974  LÃ‘     -       FAM     ARG    10.36.08    -  
+ 60         FACUNDO SUTIL                              /  /2 005  LIBRE   -       ----    ARG    10.39.48    -  
+ 61         LUCAS BURLANDO                             /  /1983  FCMAX   -       FAM     ARG    10.40.43    -  
+ 62         FACUNDO MATIAS LEDEZMA                     /  /1987  LIBRE   -       ----    ARG    10.41.24    -  
+ 63         MIGUEL ANGEL PIPPO                         /  /1977  EB      -       FAM     ARG    10.44.32    -  
+ 64         BARRAZA ENZO                             13/2 /1999  ET      -       FAM     ARG    10.46.02    -  
+ 65         GUILL ERMO GABRIEL SAN MARTIN             - /- /1999  FCMAX   -       FAM     ARG    10.48.22    -  
+ 66         PEDRO CACERES                              /  /1962  FCMAX   -       FAM     ARG    10.54.12    -  
+ 67         CARLOS MIGUEL LUJAN                        /  /1976  LIBRE   -       ----    ARG    10.58.85    -  
+ 68         GERARDO CARO                               /  /1990  MFV     -       FAM     ARG    11.06.05    -  
+ 69         FRANCO ESCURRA                             /  /1996  MFV     -       FAM     ARG    11.07.40    -  
+ 70         NELSON ESCURRA                             /  /1991  MFV     -       FAM     ARG    11.16.61    -  
+ 71         ARON SZNAIDER                              /  /2005  ET      -       FAM     ARG    11.24.32    -  
+ 72         RUBEN ACEVEDO                            - /- /1973  ET      -       FAM     ARG    11.25.73    -  
+ 73         JORGE RODRIGUEZ                            /  /1989  GAME    -       -       ARG    11.28.96    -  
+ 74         OSCAR RAMIREZ                              /  /1976  FCMAX   -       FAM     ARG    11.29.45    -  
+ 75         LUCAS AGUERO                               /  /1999  ET      -       FAM     ARG    11.40.34    -  
+ 76         MIGUEL ANGEL POSE                          /  /1970  LÃ‘      -       FAM     ARG    11.41.76    -  
+ 77         DOMINGUEZ JORGE                          16/2 /1966  AER     -       FAM     ARG    11.49.51    -  
+ 78         OMAR BLAS BUSTOS                           /  /1972  ET      -       FAM     ARG    11.57. 36    -  
+ 79         LEONARDO PABLO ROMANO                      /  /1968  LÃ‘     -       FAM     ARG    12.04.42    -  
+ 80         PEDRO FABIAN IBARRA                      - /- /1972  LÃ‘     -       FAM     ARG    12.23.04    -  
+ 81         MARIANO FERNÃ NDEZ                       - /- /1970  LÃ‘     -       FAM     ARG    12.39.95    -  
+ 82         LOPEZ ALEJANDRO                          14/2 /1964  LTFAM   -       FAM     ARG    12.41.89    -  
+ 83         MARIO FLORES                               /  / 1990  LIBRE   -       ----    ARG    12.43.57    -   84         FABRIZIO BUSTOS                            /  /2002  MFV     -       FAM     ARG    12.44.20    -  
+ 85         JORGE TALARICO                             /  /1965  EMA     -       FAM     ARG    12.46.67    -  
+ 86         MARQUEZ RUBEN                            8 /8 /1958  EB      -       FAM     ARG    12.50.72    -  
+ 87         TEODORI ALDO RAUL                        10/8 /1954  LTFAM   -       FAM     ARG    13.24.01    -  
+ 88         EDUA RDO REGALIA                            /  /1955  LTFAM   -       FAM     ARG    13.25.22    -  
+ 89         HUGO CEFERINO RIVERO                       /  /1969  ET      -       FAM     ARG    13.35.74    -  
+ 90         PABLO GUILLERMO LINDOLFO                   /  /1966  ET      -       FAM     ARG    15.16.39    -  
+ 91         OMAR BURANI                              - /- /1964  ET      -       FAM     ARG    15.16.89    -  
+ 99         CESAR PEDRO QUAGLIA                      - /- /1976  FCMAX   -       FAM     ARG    99.99.99    DNF  
+ 99         DARIO RICARDO ORTIZ                      - /- /1978  EMA -B   -       FAM     ARG    99.99.99    DNS  
+ 99         FERNANDEZ JOAQUIN IGNACIO                23/8 /1991  LÃ‘     -       FAM     ARG    99.99.99    DNS  
+ 99         JUAN ARMANDO YAPURA                      - /- /1982  LÃ‘     -       FAM     ARG    99.99.99    DNS  
+ 99         MARIANO GRAZIANO                         22/12/1989  FCMAX   -       FAM     ARG    99.99.99    DNS  
+ 99         PATRICIO BEJARANO                          /  /2004  EMA -B   -       FAM     ARG    99.99.99    DNS  
+ 99         VICENTE GARCIA SAMPAYO                     /  /1991  LIBRE   -       ----    ARG    99.99.99    DNS  
+ 
+ ___________________________________________________________ ____________________________________________  
+     400 C/V ELECTRONICO 0.914 MTS  : MAYORES -M 
+      FINAL_A   FECHA: 23/9/2023   HORA: 10.00  
+ _______________________________________________________________________________________________________  
+ 01       3 AXEL JOEL CAUTERUCCIO                    19/7 /2004  MAB     -       FAM     ARG    57.39       -  
+ 02       4 RODRIGUEZ GONZALO                        23/7 /1997  SGLZ    -       FAM     ARG    58.57       -  
+ 03       5 YACO NAHUEL ABALZA                       - /- /2005  CARP    -       FAM     ARG    62.43       -  
+ 99       6 CELA JUAN MARCELO                        15/1 /1975  -       -       FABPA   ARG    99.99       -  
+ 
+ __________________________________________________________________ _____________________________________  
+     ALTO    : MAYORES -M 
+      FINAL_A   FECHA: 23/9/2023   HORA: 09.20  
+ _______________________________________________________________________________________________________  
+ 01         FERMIN GANDARA SICA                        /  /1987  LTFAM   -       FAM     ARG    1.60        -  
+ 02         JOAQUIN CANTOS                             /  /1992  SGLZ    -       FAM     ARG    1.50        -  
+ 03         OLIVERA MATIAS EZEQUIEL                  15/5 /1973  CADAF   -       FAM     ARG    0.00        DNS  
+ 
+ _______________________________________________________________________________________________________  
+     TRIPLE    : MAYORES -M 
+      FINAL_A   FECHA: 23/9/2023   HORA: 15.15  
+ _____________________________________ __________________________________________________________________  
+ 01         NAZARENO HELBER MELGAREJO                  /  /2003  MAB     -       FAM     ARG    15.35       -2.3 -  
+ 02         LAUTARO FARIAS                             /  /2000  AAPCH   -       FAM     ARG    12.20       0.9 -  
+ 03         AVILA IGNACIO                              /  /1997  LTFAM   -       FAM     ARG    11.26       1.5 -  
+ 
+ _________________________________________________________________________________________________ ______ 
+     DISCO  2.000 KGS  : MAYORES -M 
+      FINAL_A   FECHA: 23/9/2023   HORA: 10.45  
+ _______________________________________________________________________________________________________  
+ 01         PANDIANI SERGIO                          10/3 /199 7  -       -       FAER    ARG    36.66       -  
+ 02         ERIC PATRICIO GILL                         /  /2002  SGLZ    -       FAM     ARG    32.18       -  
+ 03         JULIAN FEDERICO TAMASHIRO                  /  /2001  SGLZ    -       FAM     ARG    28.64       -  
+ 04         ESCOBAR EMILIANO GASTON                  4 /2 /1998  EMA     -       FAM     ARG    27.66       -  
+ 05         RUIZ IAN                                 29/2 /1998  QUIRO   -       FAM     ARG    00.00       -  
+ 
+_______________________________________________________________________________________________________  
+     JABALINA  0.800 KGS  : MAYORES -M 
+      FINAL_A   FECHA: 23/9/2023   HORA: 15.15  
+ _________________________________________________________________ ______________________________________  
+ 01         CARLOS RAMON IBANEZ                      11/11/1996  SGLZ    -       FAM     ARG    46.11       -  
+ 02         GUIDO FACUNDO HIGA                         /  /1998  FCMAX   -       FAM     ARG    45.59       -  
+ 03         JOAQUIN CANTOS                             /  /1992  SGLZ    -       FAM     ARG    38.29       -  
+ 04         SANTIAGO RAUL CAROU                        /  /1998  SGLZ    -       FAM     ARG    38.13       -  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MAYORES-F 
+ _______________________________________________________________________________________________________  
+     200 ELECTRONICO   : MAYORES -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 14.10   VIENTO: 0 MTS./SEG  
+ __________________________________________________ _____________________________________________________  
+ 01         LUDMILA MILLAN                           - /- /1999  MUQUI   -       FAM     ARG    26.08       -1.0  
+ 02         LAVANINI MARIA SOL                       11/1 /1994  QUIRO   -       FAM     ARG    26.32       -1.0  
+ 03         TATIANA DA SILVA HENRIQUEZ                 /  /1991  MLZ     -       FAM     ARG    26.71       -1.0  
+ 04         EMMA CUTINI                              - /- /2005  CARP    -       FAM     ARG    26.94       -1.0  
+ 05         JULIETA TELIAS                             /  /2009  RYAN    -       FAM     ARG    27.01       -0.6  
+ 06         VICTORIA BELZONI                           /  /2009  MSI     -       FAM     ARG    27.12       -0.6  
+ 07         SOFIA FERRANTE                             /  /2004  SGLZ    -       FAM     ARG    27.39       -1.0  
+ 08         ZACARIA JULIETA ROCIO                    6 /5 /2005  QUIRO   -       FAM     ARG    27.83       -1.0  
+ 09         MALENA MIRON                             - /- /2008  CHAMA   -       FAM     ARG    28.08       -1.0  
+ 10         LUCERO MIA PLANELLS                        /  /2009  MSI     -       FAM     ARG    28.15       -1.4  
+ 11         CILURZO LUCIANA                          6 /10/1997  MLAM    -       FAM     ARG    28.30       -0.6  
+ 12         PAULINA ALVARES GOÃ±I                      /  /2006  CARP    -       FAM     ARG    28.32       -0.6  
+ 13         ANTONELLA VALLETTA                         /   /2004  CAVS    -       FAM     ARG    28.41       -0.6  
+ 13         VERONICA ALEJANDRA PILIPEC                 /  /1983  FCMAX   -       FAM     ARG    28.41       -0.6  
+ 14         VALENTINA OCCELLO ARZADUN                  /  /2008  ET      -       FAM     ARG    28.74       -1.4  
+ 15         SIMONA GOMEZ FIORITO                       /  /2007  CADAF   -       FAM     ARG    28.86       -1.0  
+ 16         LUCIANA PILAR TAMASHIRO                    /  /1999  SGLZ    -       FAM     ARG    29.25       -1.0  
+ 17         LUNA CANDELA BAGNATO                       /  /2009  ET      -       FAM     ARG    29.73       -1.0  
+ 18         KELLY BARBOSA DE SOUSA                     /  /1989  OTRA FE -       FABPA   ARG    29.91       -1.0  
+ 19         YASMIN CORBELL E SIAREZ                     /  /2008  ET      -       FAM     ARG    30.01       -1.0  
+ 20         LOLA MALDONADO                             /  /2011  LÃ‘     -       FAM     ARG    30.23       -1.0  
+ 21         VICTORIA LIENDO CONTRERAS                  /  /2010  LÃ‘     -       FAM     ARG    31.05       -1.0  
+ 22         XIOMARA DENISE LOPEZ                       /  /2010  MMA     -       FAM     ARG    31.21       -1.4  
+ 23         CAMILA KREYMEYER                           /  /2003  MM      -       FAM     ARG    31.40       -1.4  
+ 24         MARIELA GRAFFIGNA                          /  /1990  EMA     -       FAM     ARG    31.85       -1.0  
+ 25         VERONICA TAJES                             /  /1983  AAPCH   -       FAM     ARG    32.01       -0.2  
+ 26         LUNA AGUSTINA ACOSTA                       /  /2011  ET      -       FAM     ARG    32.15       -1.0  
+ 27         MARTINEZ MIRIAM                          3 /4 /1966  AAPCH   -       FAM     ARG    32.50       -0.2  
+ 28         BENITO DANIE LA                           23/5 /1966  LIBRE   -       ----    ARG    32.79       -0.2  
+ 29         MORENA LUCIA GONZALEZ                      /  /2006  SGLZ    -       FAM     ARG    32.84       -1.4  
+ 30         VALENTINA MARTINEZ                         /  /2011  ET      -       FAM     ARG    32.87       -1.0  
+ 31         MAIA MORENO                                /  /2010  ET      -       FAM     ARG    34.02       -1.0  
+ 32         ANDREA CAGIGAS                           - /- /1977  ET      -       FAM     ARG    34.26       -0.2  
+ 33         NELIDA FABIANA LUCERO                      /  /1970  FCMAX   -       FAM     ARG    35.17       -0.2  
+ 34         MA. AGOSTINA HITTER                      - /- /2006  FCMAX   -       FAM     ARG    35.31       -1.4  
+ 35         CRISTINA LILIAN NISTAL                   - /- /1961  FCMAX   -       FAM     ARG    35.56       -0.2  
+ 36         LIOI PATRICIA ESTHER                     19/3 /1961  AAPCH   -       FAM     ARG    36.29       -0.2  
+ 37         OSORES JULIETA                           14/10/1972  CADAV   -       FAM     ARG    36.30       -0.2  
+ 38         LOLA SANCHEZ GOMEZ                         /  /2005  CARP    -       FAM     ARG    99.99       DNS  
+ 38         LUCILA STUVEN                              /  /2009  ROBLES  -       FAM     ARG    99.99       DNS  
+ 38         MARÃ A VIRGINIA VALENTINI                - /- /2008  CHAMA   -       FAM     ARG    99.99       DNS  
+ 38         MIA QUINTANA                               /  / 2008  MAB     -       FAM     ARG    99.99       -0.6  
+ 
+ 
+ _______________________________________________________________________________________________________  
+     800 ELECTRONICO   : MAYORES -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 10.25  
+ ____________ ___________________________________________________________________________________________  
+ 01         OLIVES VICTORIA                          10/12/1999  -       -       FSA     ARG    2.17.44     -  
+ 02         FABIANA SALOME GRAMAJO                   - /- /1989  FCMAX   -       FAM     ARG    2.21.59     -  
+ 03         ROSALES MARIA JOSE                       19/8 /2004  AACRV           SL      ARG    2.23.90       
+ 04         PATRICIA MARIEL MATOS                      /  /2001  EMA -B   -       FAM     ARG    2.25.30     -  
+ 05         VIRGINIA MACÃ AS BRACAMONTE                 /  /1992  -       -       FABPA   ARG    2.26.00     -  
+ 06         JAUREGUY ANGEL ALDINA                    31/12/1986  MLAM    -       FAM     ARG    2.26.87     -  
+ 07         MARIA MAURA ESTIGARRIBIA                   /  /1995  LIBRE   -       ----    ARG    2.29.99     -  
+ 08         FLORENCIA ALLEVATTO                        /  /1986  FCMAX   -       FAM     ARG    2.30.09     -  
+ 09         AGUSTINA DANIELA PERALTA                 - /- /1998  MME     -       FAM     ARG    2.30.89     -  
+ 10         ROMINA TORRES                            - /- /1979  MLAM    -       FAM     ARG    2.34.53     -  
+ 11         CANDELA AGUSTINA PEREZ GRABINA             /  /2006  AAPCH   -       FAM     ARG    2.39.00     -  
+ 12         ERIKA GISELL MENDEZ                        /  /2007  LÃ‘     -       FAM     ARG    2.40.08     -  
+ 13         LUISANA ROBLES                           - /- /2007  AAPCH   -       FAM     ARG    2.41.80     -  
+ 14         NANCY ELIZABETH MORETTI                    /  /1973  AER     -       FAM     ARG    2.42.76     -  
+ 15         ZALAZAR LIDIA DEL CARMEN                 3 /5 /1973  LÃ‘     -       FAM     ARG    2.46.58     -  
+ 16         DELFINA CERRANO                            /  /2009  ET      -       FAM     ARG    2.49.25     -  
+ 17         TEOFILA BEATRIZ SOSA                       /  /1977  LÃ‘     -       FAM     ARG    2.52.55     -  
+ 18         ANA POLACK MARTÃ NEZ                        /  /2008  CNBA    -       FAM     ARG    3.06.12     -  
+ 19         MARIA ORTEGA                               /  /1975  FCMAX   -       FAM     ARG    3.08.55     -  
+ 20         MAGALI ROCIO MARTINEZ                      /  /2006   MAB     -       FAM     ARG    3.11.89     -  
+ 21         PATRICIA G FALCÃ“N                         /  /1961  AAPCH   -       FAM     ARG    9.99.99     DNS  
+  _____________________________________________________________________________________________ __________  
+     3000 ELECTRONICO   : MAYORES -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 15.30  
+ _______________________________________________________________________________________________________  
+ 01         ANNA SCAPPINI                              /  /1989  FCMAX   -       FAM     ARG    10.01.54    -  
+ 02         RENATA DOLHARE                             /  /1999  EB      -       FAM     ARG    10.03.77    -  
+ 03         CORDOBA MARIA BELEN                      1 /12/1990  -       -       FABPA   AR G    10.42.02    -  
+ 04         ARZAMENDIA ESTECHE MARIA E               5 /3 /1977  DC      -       FAM     ARG    11.14.66    -  
+ 05         ROCIO NOGUERA                            - /- /1984  LTFAM   -       FAM     ARG    11.26.87    -  
+ 06         SU SANA TAVOLONI                            /  /1965  -       -       FAP     ARG    11.31.83    -  
+ 07         GABRIELA TABOADA                           /  /1989  MME     -       FAM     ARG    11.33.70    -  
+ 08         FIAMMA KIMEI DE OAR                        /  /1991  FCMAX   -       FAM     ARG    11.50.53    -  
+ 09         BIANCA ROZENTAL                            /  /1991  LIBRE   -       ----    ARG    11.54.90    -  
+ 10         ELENA BEATRIZ BARZOLA                      /  /1983  FTTF    -       FAM     ARG    12.00.57    -  
+ 11         CERVERA MONICA                           14/1 /1971  QUIRO   -       FAM     ARG    12.05.63    -  
+ 12         CAROLINA JULIETA ANSIO                     /  /1991  FCMAX   -       FAM     ARG    12.22.73    -  
+ 13         ERNESTINA MENDEZ RUGANI                    /  /2007  OTRA FE -       FABPA   ARG    12.25.38    -  
+ 14         LAURA ARAGON                               /  /1988  EMA     -       FAM     ARG    12.30.07    -  
+ 15         HILDA POMA MACHACA                         /  /1986  EMA     -       FAM     ARG    12.39.49    -  
+ 16         ORTEGA BLACIDA                           3 /2 /1975  DC      -       FAM     ARG    12.40.15    -  
+ 17         MARIA BASSO                                /  /1987  LIBRE   -       ----    ARG    12.49.75    -  
+ 18         FLORENCIA DI PIERRO                        /  /2001  EB      -       FAM     ARG    12.54.51    -  
+ 19         CINTHIA SALERNO                          - /- /1971  LÃ‘      -       FAM     ARG    13.00.74    -  
+ 20         MARIA VIRGINA MENZER                       /  /1977  EMA     -       FAM     ARG    13.05.40    -  
+ 21         SOLEDAD CUELLAR                          - /- /1985  FCMAX   -       FAM     ARG    13.05. 59    -  
+ 22         MARIA BELEN D 'ACUNTI                      /  /1983  LTFAM   -       FAM     ARG    13.07.85    -  
+ 23         MELINA JIMENA LOPEZ WILHELM                /  /2003  LÃ‘     -       FAM     ARG    13.12.09    -  
+ 24         INGRID HERRER A                             /  /1987  EMA     -       -       ARG    13.28.09    -  
+ 25         AIDA AGUILAR                               /  /1968  LTFAM   -       FAM     ARG    13.28.59    -  
+ 26         CONTRERAS COLOM PAULA ISABEL             25/7 / 1972  LÃ‘     -       FAM     ARG    14.27.16    -  
+ 27         VERONICA CALZONE                           /  /1968  LÃ‘     -       FAM     ARG    14.48.68    -  
+ 28         ALDANA ANTONELLA CHILENO                   /  /1994  LÃ‘     -       FAM     ARG    99.99.99    DNS  
+ 28         CAROLINA MARTINEZ                          /  /1981  LÃ‘     -       FAM     ARG    99.99.99    DNS  
+ 28         QUEVEDO LORENA VALENTINA                 29/8 /1967  -       -       FABPA   ARG    99.99.99    DNS  
+ 28         RODRIGUEZ LETICIA MAGDALENA              3 /4 /1988  MME     -       FAM     ARG    99.99.99    -  
+ 
+ _______________________________________________________________________________________________________  
+     400 C/V ELECTRONICO 0.762 MTS  : MAYORES -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 09.40  
+ _______________________________________________________________________________________________________  
+ 01       4 CORREA CAMILA LEONELA                    3 /8 /1997  MSI     -       FAM     ARG    63.90       -  
+ 02       6 CHAZARRETA, LORELEY AYLEN                30/9 /2000  CARP    -       FAM     ARG    73.91       -  
+ 03       5 MARTINA ZOE DUARTE                       - /- /2007  QUIRO   -       FAM     ARG    73.93         
+ 04       3 AYLEN IARA ROSSI BAIARDO                   /  /2007  AAPCH   -       FAM     ARG    73.94         
+ 05       2 AGOSTINA RODRÃ GUEZ                         /  /2004  AAA     -       FABPA   ARG    90.54       -  
+ 
+ ______________________________________________________________ _________________________________________  
+     TRIPLE    : MAYORES -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 13.30  
+ _______________________________________________________________________________________________________  
+ 01         POCHETTI ROXANA                          23/12/2001  MAB     -       FAM     ARG    10.19       -0.7 -  
+ 02         CARDOZO CAMILA                           25/3 /1997  MSI     -       FAM     ARG    10.14       -1.6 -  
+ 
+ ______________________ _________________________________________________________________________________  
+     DISCO  1.000 KGS  : MAYORES -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 09.15  
+ ___________________________________________________________________________________________ ____________  
+ 01         ROMERO MILAGROS V BELEN                  23/8 /2002  MLAM    -       FAM     ARG    30.11       -  
+ 
+ 
+ _______________________________________________________________________________________________________  
+     JABALINA   0.600 KGS  : MAYORES -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 13.30  
+ _______________________________________________________________________________________________________  
+ 01         CARDOZO CAMILA                           25/3 /1997  MSI     -       FAM     ARG    29.23       -  
+ 02         BRENDA ABEIJON BASSET                    - /- /1999  QUIRO   -       FAM     ARG    28.77       -  
+ 
+ 
+U20-M 
+ __________________________________________________________________________________________ _____________  
+     ALTO    : U20 -M 
+      FINAL_A   FECHA: 23/9/2023   HORA: 11.20  
+ _______________________________________________________________________________________________________  
+ 01         MANUEL ZAPPACOSTA                          /  /2006  MSI     -       FAM     ARG    1.70        -  
+ 02         AGUSTIN BLUMENKRANC                        /  /2007  MSI     -       FAM     ARG    1.65        -   
+ _______________________________________________________________________________________________________  
+     TRIPLE    : U20 -M 
+      FINAL_A   FECHA: 23/9/2023  
+ ______________________________________________________________________________________________ _________  
+ 01         MARTIN NATANAEL HEREDIA                  - /- /2005  MM      -       FAM     ARG    13.29       -2.7 -  
+ 02         AUGUSTO LOPEZ CABRAL                       /  /2006  MUQUI   -       FAM     ARG    12.95       0.5 -  
+ 03         FRA NCIS MARTIN DEL VALLE                   /  /2004  MAB     -       FAM     ARG    12.64       2.2 -  
+ 04         FRANCISCO GIL                              /  /2007  MSI     -       FAM     ARG    11.34       0.8 -  
+ 05         MAURO RIOS                                 /  /2006  MAB     -       FAM     ARG    11.19       1.1 -  
+ 05         JUAN CRUZ RAMIREZ                          /  /2004  MPP     -       FAM     ARG    11.19       3.2 -  
+ 
+ _________________________________________________________________ ______________________________________  
+     DISCO  1.750 KGS  : U20 -M 
+      FINAL_A   FECHA: 23/9/2023   HORA: 10.45  
+ _______________________________________________________________________________________________________  
+ 01         JORGE LAUTARO BENITEZ                    - /- /2005  MAB     -       FAM     ARG    33.14       -  
+ 
+_______________________________________________________________________________________________________  
+     JABALINA  0.800 KGS  : U20 -M 
+      FINAL_A   FECHA: 23/ 9/2023   HORA: 15.15  
+ _______________________________________________________________________________________________________  
+ 01         LUCAS IZUEL                              - /- /2005  FCMAX   -       FAM     ARG    36.73       -  
+ 
+ 
+  
+U20-F 
+ _______________________________________________________________________________________________________  
+     ALTO    : U20 -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 09.20  
+ _______________________________________________________________________________________________________  
+ 01         MORENA ARPIRES                             /  /2007  QUIRO   -       FAM     ARG    1.60        -  
+ 02         SOFIA FERRANTE                             /  /2004  SGLZ    -       FAM     ARG    1.40        -  
+ 
+ _______________________________________________________________________________________________________  
+     TRIPLE    : U20 -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 13.30  
+ ________ _______________________________________________________________________________________________  
+ 01         MALDONADO GONZALEZ KATHERINE LIBRAD      9 /3 /2004  MLAM    -       FAM     ARG    11.27       -0.6 -  
+ 02         LUCIA MARTINEZ                             /  /2006  MUQUI   -       FAM     ARG    08.94       0.5 -  
+ 03         PIA FERNANDEZ                            21/4 /2007  MLAM    -       FAM     ARG    08.70       -1.0 -  
+ 
+ ___________________________________________________________________ ____________________________________  
+     DISCO  1.000 KGS  : U20 -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 09.15  
+ _______________________________________________________________________________________________________  
+ 01         GUILLERMINA VALENZUELA                   - /- /2004  LASM    -       FAM     ARG    29.85       -  
+ 02         ELISABET CORINA GIMENEZ ESTRADA            /  /2006  AAPCH   -       FAM     ARG    18.41       -  
+ 
+_______________________________________________________ ________________________________________________  
+     JABALINA  0.600 KGS  : U20 -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 13.30  
+ _______________________________________________________________________________________________________  
+ 01         GRETA FARINA                             - /- /2004  SGLZ    -       FAM     ARG    19.86       -  
+ 
+ 
+ 
+U18-M 
+ _______________________________________________________________________________________________________  
+     400 C/V ELECT RONICO 0.84 MTS  : U18 -M 
+      FINAL_A   FECHA: 23/9/2023   HORA: 10.00  
+ _______________________________________________________________________________________________________  
+ 01       1 RENZO NATALE                               /  /2007  MSI     -       FAM     ARG    60.34       -  
+ 02       2 RENZO WHITAKER                             /  /2006  MSI     -       FAM     ARG    61.19       -  
+ 
+ _______________________________________________________________________________________________________  
+     DISCO  1.500 KGS  : U18 -M 
+      FINAL_A   FECHA: 23/9/2023   HORA: 10.45  
+ _______________________________________________________________________________________________________  
+ 01         MARCOS MORALES                             /  /2006  MAB     -       FAM     ARG    37.92       -  
+ 02         BRUNO BENJAMIN MAYDANA                   - /- /2007  EMA     -       FAM     ARG    35.32       -  
+ 03         TEO VALENZUELA                           - /- /2006  LASM    -       FAM     ARG    33.24       -  
+ 04         JOAQUIN SANTAMARIA                         /  /2006  -       -       FABPA   ARG    32.55       -   
+ 
+U18-F 
+ _______________________________________________________________________________________________________  
+     JABALINA  0.500 KGS  : U18 -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 13.30  
+ _______________________________________________________________________________________________________  
+ 01         MORENA LUCIA GONZALEZ                      /  /2006  SGLZ    -       FAM     ARG    18.76       -  
+ 02         VALENTINA INES DONNIANI                    /  /2006  FCMAX   -       FAM     ARG    17.70       -  
+ 
+ 
+ 
+U16-M 
+ ___________ ____________________________________________________________________________________________  
+     2400 ELECTRONICO   : U16 -M 
+      FINAL_A   FECHA: 23/9/2023   HORA: 13.50  
+ ___________________________________________________________________________________ ____________________  
+ 01         ALAN JAVIER CANCELO                      - /- /2009  LÃ‘     -       FAM     ARG    08.17.53    -  
+ 02         DIEGO TOMAS SIGEL                          /  /2009  MAB     -       FAM     ARG    08.39.31    -  
+ 03         T HIAGO VARGAS                              /  /2009  ET      -       FAM     ARG    08.51.88    -  
+ 04         VALENTIN WUNSCH                          - /- /2008  LÃ‘     -       FAM     ARG    09.02.58    -  
+ 05         MILO BARRIOS                               /  /2009  DC      -       FAM     ARG    09.03.30    -  
+ 06         IEVGUENI JORQUERA                          /  /2010  LÃ‘     -       FAM     ARG    10.05.72    -  
+ 07         TIZIANO AGUSTÃ N PORTILLO NUÃ±EZ         - /- /2009  LÃ‘     -       FAM     ARG    10.07.89    -  
+ 
+ _______________________________________________________________________________________________________  
+     295 C/V ELECTRONICO 0.84 MTS  : U16 -M 
+      FINAL_A   FECHA: 23/9/2023   HORA: 09.20  
+ _____________________________ __________________________________________________________________________  
+ 01       4 JULIAN AQUINO                              /  /2008  LTFAM   -       FAM     ARG    45.29       -  
+ 02       5 GENARO ALEJANDRO CHUMBITA                  /  /2008  MMA     -       FAM     ARG    45.62       -  
+ 03       3 BENJAMIN DAMIAN MAXIMILIANO FERNÃ¡N        /  /2008  MMA     -       FAM     ARG    53.03       -  
+ 
+ ______________________________________________________________________________________________________ _ 
+     ALTO    : U16 -M 
+      FINAL_A   FECHA: 23/9/2023   HORA: 09.20  
+ _______________________________________________________________________________________________________  
+ 01         TAHIEL NEIFFERT                            /  /2008  MLZ     -       FAM     ARG    1.60        -  
+ 02         SANTIAGO MANCEBO FRIAS                     /  /2008  MLAM    -       FAM     ARG    1.35        -  
+ 03         MAXIMO THIAGO ARAKAKI                      /  /2011  LIBRE   -       ----    ARG    1.25        -  
+ 04         MATEO SENAREGA                             /  /2010  CNBA    -       FAM     ARG    0.00        -  
+ 
+ __________________________________________________________________ _____________________________________  
+     TRIPLE    : U16 -M 
+      FINAL_A   FECHA: 23/9/2023   HORA: 13.30  
+ _______________________________________________________________________________________________________  
+ 01         JOAQUIN IVAN BENITEZ                       /  /2008  FCMAX   -       FAM     ARG    10.91       -0.5 -  
+ 
+ _______________________________________________________________________________________________________  
+     DISCO  1.000 KGS  : U16 -M 
+      FINAL_A   FECHA: 23/9/2023   HORA: 10.45  
+ _______________________________________________________________________________________________________  
+ 01         MATIAS SALOMON                             /  /2008  MAB     -       FAM     ARG    43.99       -  
+ 02         NAHUEL ESTEBAN LENCINA                     /  /2008  MLAM    -       FAM     ARG    40.76       -  
+ 
+ 
+ _______________________________________________________________________________________________________  
+     JABALINA  0.600 KGS  : U16 -M 
+      FINAL_A   FECHA: 23/9/202 3   HORA: 15.15  
+ _______________________________________________________________________________________________________  
+ 01         BAUTISTA OSSO AZARIO                       /  /2008  SGLZ    -       FAM     ARG    25.30       -  
+ 02         JOAQUIN ALEX IS ESPINOSA ARIZAGA            /  /2008  MMA     -       FAM     ARG    22.05       -  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U16-F 
+ _______________________________________________________________________________________________________  
+     2400 ELECTRONICO   : U16 -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 13.30  
+ _______________________________________________________________________________________________________  
+ 01         ATHINA BIANCA PETITTO                      /  /2010  MSI     -       FAM     ARG    09.02.10     -  
+ 02         LUCIA SUAREZ                             - /- /2008  CHAMA   -       FAM     ARG    09.26.30    -  
+ 03         AHINARA VARGAS                             /  /2011  ET      -       FAM     ARG    10.02.27    -  
+ 
+ _________________________ ______________________________________________________________________________  
+     295 C/V ELECTRONICO 0.762 MTS  : U16 -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 09.00  
+ _____________________________________________________________________________________ __________________  
+ 01         INES MAFFEO LETE                           /  /2008  CADAF   -       FAM     ARG    58.04       -  
+ 
+ _______________________________________________________________________________________________________  
+     ALTO    : U16 -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 09.20  
+ _______________________________________________________________________________________________________  
+ 01         FEDERICA BACKIS NORDENSTAHL                /  /2008  MSI     -       FAM     ARG    1.35        -  
+ 02         MALENA AYUMY YAGI HIGA                     /  /2009  CHAMA   -       FAM     ARG    1.35        -  
+ 02         VICTORIA BELZONI                           /  /2009  MSI     -       FAM     ARG    1.35        -  
+ 03         FLORENCIA VALS ECHE                         /  /2008  AAPCH   -       FAM     ARG    1.30        -  
+ 04         MANUELA ACUÃ‘A CHAO                        /  /2008  QUIRO   -       FAM     ARG    1.20        -  
+ 04         AGUSTINA LUJAN AGUILERA                    /  /2 009  ROBLES  -       FAM     ARG    1.20        -  
+ 05         VICTORIA LIENDO CONTRERAS                  /  /2010  LÃ‘     -       FAM     ARG    1.15        -  
+ 06         LUCILA STUVEN                              /  /2009  ROBLES  -       FAM     ARG    0.00        -  
+ 
+ _______________________________________________________________________________________________________  
+     TRIPLE    : U16 -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 13.30  
+ _______________________________________________________________________________________________________  
+ 01         ANTONELLA MOLINA GULLOTTA                  /  /2008  CARP    -       FAM     ARG    09.19       -0.5 -  
+ 02         JULIETA GIMENEZ                            /  /2010  MLAM    -       FAM     ARG    09.14       -0.8 -  
+ 03         MIA QUINTANA                               /  /2008  MAB     -       FAM     ARG    08.92       -0.7 -  
+ 
+ __________________________ _____________________________________________________________________________  
+     DISCO  0.750 KGS  : U16 -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 09.15  
+ ___________________________________________________________________________________________________ ____ 
+ 01         PRISCILA WEIGANDT                          /  /2008  MLAM    -       FAM     ARG    34.71       -  
+ 02         CONSTANZA PIZZIO                           /  /2008  MLAM    -       FAM     ARG    33.05       -  
+ 03         MELANIE ANTUNEZ O RONA                      /  /2009  MAB     -       FAM     ARG    30.95       -  
+ 04         ISABELLA MASCI                             /  /2010  MAB     -       FAM     ARG    30.74       -  
+ 05         LOLA BIANCARDI                             /  /2008   MLZ     -       FAM     ARG    27.56       -  
+ 
+ 
+ _______________________________________________________________________________________________________  
+     JABALINA  0.400 KGS  : U16 -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 13.30  
+ _______________________________________________________________________________________________________  
+ 01         AGUSTINA LUJAN AGUILERA                    /  /2009  ROBLES  -       FAM     ARG    22.51       -  
+ 02         IARA TRIPODE                               /  /2009  MLAM    -       FAM     ARG    21.20       -  
+ 03         FEDERICA BACKIS NORDENSTAHL                /  /2008  MSI     -       FAM     ARG    20.22       -  
+ 04         ANTONELLA DAIANA CUENC A ARAMAYO            /  /2008  CNBA    -       FAM     ARG    14.74       -  
+ 05         CATERINA ZHANG YU                          /  /2009  CNBA    -       FAM     ARG    13.45       -  
+ 06         VICTORIA LIENDO CONTRERAS                  /  /2010  LÃ‘      -       FAM     ARG    13.26       -  
+ 
+ 
+U12-M 
+_______________________________________________________________________________________________________  
+     50 ELECTRONICO   : U12 -M 
+      FINAL_A   FECHA: 23/9/2023   HORA: 12.00   VIENTO: 0 MTS./SEG  
+ _______________________________________________________________________________________________________  
+ 01         JOAQUIN ESTEBAN JAIME KENM                 /  /2012  FCMAX   -       FAM     ARG    07.99       -  
+ 02         JEREMÃ AS ROSSI LA FORGIA                   /  /2012  LÃ‘     -       FAM     ARG    08.40       -  
+ 03         ANTONIO VALENZA                            /  /2012  GE      -       FAM     ARG    08.52       -  
+ 04         THIAGO BENJAMÃ N SANTOS GARCIA              /  /2013  AAPCH   -       FAM     ARG    08.56       -  
+ 05         JEREMIAS PAULO                             /  /2012  ET      -       FAM     ARG    08.77       -  
+ 06         CIRO SANTOS                                /  /2013  CHAMA   -       FAM     ARG    08.80       -  
+ 07         JUAN MARCOS GIMENEZ ALTAMIRA               /  /2012  LÃ‘     -       FAM     ARG    09.34       -  
+ 08         LAUTARO BAUTISTA ROSAS                     /  /2012  LÃ‘     -       FAM     ARG    09.50       -  
+ 09         ISAAC EMMANUEL LOPEZ MATTA                 /  /2012  AAPCH   -       FAM     ARG    09.58       -  
+ 
+  
+ ____________________________________________________________________________ ___________________________  
+     ALTO    : U12 -M 
+      FINAL_A   FECHA: 23/9/2023   HORA: 09.20  
+ _______________________________________________________________________________________________________  
+ 01         JEREMÃ AS ROSSI LA FORGIA                   /  /2012  LÃ‘     -       FAM     ARG    1.25        -  
+ 02         THIAGO BENJAMÃ N SANTOS GARCIA              /  /2013  AAPCH   -       FAM     ARG    1.05        -  
+ 03         JUAN MARCOS GIMENEZ ALTAMIRA               /  /2012  LÃ‘     -       FAM     ARG    1.00        -  
+ 
+  U12-F 
+ _______________________________________________________________________________________________________  
+     50 ELECTRONICO   : U12 -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 11.40   VIENTO: 0 MTS./SEG  
+ _____________________ __________________________________________________________________________________  
+ 01         RINA LARROSA                               /  /2012  MMA     -       FAM     ARG    07.92       -  
+ 02         FLORENCIA SUAREZ                         13/4 /2012  CHAMA   -       FAM     ARG    08.07       -  
+ 03         CATALINA BELMONTE MIRANDA                  /  /2012  FCMAX   -       FAM     ARG    08.43       -  
+ 04         AIMI IGUCHI                                /  /2012  AAPCH   -       FAM     ARG    08.74       -  
+ 05         VICTORIA ROSARIO ESTEBO                    /  /2012  ET      -       FAM     ARG    08.77       -  
+ 06         MICAELA ESPINOLA SOLIS                     /  /2012  FCM AX   -       FAM     ARG    08.78       -  
+ 07         JULIETA HIKARI YAGI HIGA                   /  /2012  COAFA   -       FAM     ARG    08.79       -  
+ 08         EMILIA REY FORTES                          /  /2013  RYAN    -       FAM     ARG    08.96       -  
+ 09         SABINA BELEN PEREIRA                       /  /2013  LÃ‘     -       FAM     ARG    09.06       -  
+ 10         SOFIA FIZ                                  /  /2012  AAPCH   -       FAM     ARG    09.16       -  
+ 11         HELENA DONATI                               /  /2013  AAPCH   -       FAM     ARG    09.49       -  
+ 12         RENATA SERFATI                             /  /2013  AAPCH   -       FAM     ARG    09.50       -  
+ 13         REBECA SOFIA VIVAS DELGADO                 /  / 2013  AAPCH   -       FAM     ARG    09.89       -  
+ 14         VIOLETA CERVETTO                           /  /2012  LÃ‘     -       FAM     ARG    09.90       -  
+ 
+ ___________________________________________________________________________________________ ____________  
+     ALTO    : U12 -F 
+      FINAL_A   FECHA: 23/9/2023   HORA: 09.20  
+ _______________________________________________________________________________________________________  
+ 01         SOFIA FIZ                                  /  /2012  AAPCH    -       FAM     ARG    1.00        -  
+ 02         RENATA SERFATI                             /  /2013  AAPCH   -       FAM     ARG    1.00        -  
+ 03         VIOLETA CERVETTO                           /  /2012  LÃ‘     -       FAM     ARG    0.95        -  
+ 
+ 
+ 
